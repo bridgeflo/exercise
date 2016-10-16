@@ -1,0 +1,1356 @@
+2016-10-14  Bridge-Bowl Mixed
+Einzelresultate
+
+16 Tische, 32 Paare. Anzahl der Boards: 30. Durchschnitt: 420,0. 
+Average+/=/- ergibt mindestens 60 / genau 50 / maximal 40 %.
+
+
+-------------------------------------------------------------------------------------------------------------
+
+Platz  Paar  Punkte    %    Name                                      Kategorie   MP
+
+    1     6   522,1  62,16  BABSCH Inge - SPIEß Anna                    SLM - P  252
+    2    24   503,7  59,97  THOMASBERGER Hannelore - WIEDMANN Georg    JGM - LM  216
+    3    13   493,1  58,71  LINDENLAUF Diana - PROPST Stefan          JGM - SLM  192
+    4    33   492,5  58,63  KERBL Astrid - HORNISCHER Gerhard          LM - SLM  168
+    5    30   484,5  57,68  CHARKOW Tamara - WEINBERGER Simon            P - LM  144
+    6    25   472,7  56,28  GYIMESI Herta - ZUPANCIC Michael          SLM - JGM  120
+    7    27   468,4  55,77  ROUPEC Judith - KUBAK Fritz                 LM - GM   96
+    8     5   465,6  55,43  KREUTZER Barbara - BABSCH Andreas          SLM - GM   78
+    9     4   456,1  54,29  ARTMER Ilse Betina - SIMON Josef           JGM - GM   60
+   10    15   450,9  53,68  ZOLLE Gity - FINZ Herbert                    H - LM   48
+   11    32   442,6  52,70  ILLNER Andrea - KERN Stefan                 LM - LM   42
+   12    31   440,6  52,46  LEIFERT Ilo - WANHA Clemens                 P - SLM   36
+   13     7   438,9  52,24  GRÜMM Susanne - TRAMPISCH Alexander       JGM - SLM   36
+   14     9   438,0  52,14  MUSIOL Britta - SOVA Otto                   P - SLM   30
+   15    21   434,9  51,78  TERRANEO Sylvia - SAURER Bernd              GM - GM   30
+   16    23   433,0  51,55  SUMMER Marianne - PAESOLD Claudius           A - LM   30
+   17    11   429,5  51,13  KAUTZKY Eva - KNOB Markus                 SLM - JGM   24
+   18    10   416,1  49,53  HERMANN Sophie - TSIOKRIS Georgios           H - LM   24
+   19     2   413,6  49,24  MYSKIW Margareta - ROHOWSKY Johanna           P - H   24
+   20     3   404,7  48,18  DOUTLIK Marianne - REMMEL Leo               P - SLM   18
+   21    16   404,7  48,18  DE DEKEN Marga - DE DEKEN Thierry             A - A   18
+   22    26   396,1  47,15  BACHMAIER Ulrike - REITER Johanna             H - H   18
+   23     1   395,7  47,11  FISCHER Doris - LAZAR Kornel                GM - LM
+   24    34   390,1  46,44  DAICHENDT Lieselotte - HACKL Johann        LM - SLM
+   25     8   387,6  46,14  PETZELBAUER Elisabeth - KORBEL Karlheinz      A - P
+   26    29   365,7  43,54  FERLIC Judith - POLASCHEGG Helmut           LM - LM
+   27    35   358,0  42,62  ALLAF Houda - PENDL Michael                  T - LM
+   28    28   338,5  40,30  STREICHER Gilde - BROJER Maria                H - H
+   29    14   338,1  40,25  GUJA Rodica - SCHWAB Manfred                 K - LM
+   30    12   336,8  40,09  WASSER Doris - ARTMER Gero                   LM - P
+   31    22   334,5  39,82  HENSLER Elisabeth - SCHÜLLER Gerhard          K - T
+   32    36   292,5  34,82  SVANDA Brigitte - SVANDA Peter                K - K
+
+
+
+-------------------------------------------------------------------------------------------------------------
+1      D65           
+Nord   B986          
+Keine  D10976        
+       9             
+AK32          B984   
+43            AK     
+B843          AK52   
+KD5           A62    
+       107           
+       D10752        
+       ---           
+       B108743       
+
+5P O -450            
+       T  K  H  P  N
+NS     5  3  7  2  2 
+O      7 10  5 11 10 
+W      :  :  : 10  : 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 8 34  PETZELBAUER - KORBEL - DAICHENDT - HACKL        6K    O  -3  T7    150      27,0  1,0   96,4   3,6
+16 35  DE DEKEN - DE DEKEN - ALLAF - PENDL             6P    W  -3  T9    150      27,0  1,0   96,4   3,6
+ 9 36  MUSIOL - SOVA - SVANDA - SVANDA                 6P    O  -1  H2    50       19,0  9,0   67,9  32,1
+11 25  KAUTZKY - KNOB - GYIMESI - ZUPANCIC             4P    O  -1  TB    50       19,0  9,0   67,9  32,1
+13 29  LINDENLAUF - PROPST - FERLIC - POLASCHEGG       6P    W  -1  H9    50       19,0  9,0   67,9  32,1
+14 31  GUJA - SCHWAB - LEIFERT - WANHA                 6P    O  -1  H2    50       19,0  9,0   67,9  32,1
+26  4  BACHMAIER - REITER - ARTMER - SIMON             6P    O  -1  H5    50       19,0  9,0   67,9  32,1
+ 6 30  BABSCH - SPIEß - CHARKOW - WEINBERGER           6N    O  -1  TB    50       19,0  9,0   67,9  32,1
+ 1 21  FISCHER - LAZAR - TERRANEO - SAURER             3N    W  +1  H4     -430    11,0 17,0   39,3  60,7
+24  3  THOMASBERGER - WIEDMANN - DOUTLIK - REMMEL      3N    O  +1  P10    -430    11,0 17,0   39,3  60,7
+ 7 32  GRÜMM - TRAMPISCH - ILLNER - KERN               4P    O  +1  TB     -450     7,0 21,0   25,0  75,0
+15 33  ZOLLE - FINZ - KERBL - HORNISCHER               4P    O  +1  H2     -450     7,0 21,0   25,0  75,0
+12 27  WASSER - ARTMER - ROUPEC - KUBAK                4P    O  +2  TB     -480     4,0 24,0   14,3  85,7
+28  5  STREICHER - BROJER - KREUTZER - BABSCH          6P    W   =  H9     -980     2,0 26,0    7,1  92,9
+10 23  HERMANN - TSIOKRIS - SUMMER - PAESOLD           3Nxx  O  +1  H2     -1000    0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+2      KD10732       
+Ost    2             
+N-S    K7654         
+       3             
+95            AB     
+75            KDB1083
+A8            B9     
+AK76542       DB9    
+       864           
+       A964          
+       D1032         
+       108           
+
+5Px S -200           
+       T  K  H  P  N
+NS     1 10  1 10  1 
+OW    11  3 11  3  9 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 1 21  FISCHER - LAZAR - TERRANEO - SAURER             4Px   N   =  HK    790      27,0  1,0   96,4   3,6
+ 7 32  GRÜMM - TRAMPISCH - ILLNER - KERN               4Px   N   =  H2    790      27,0  1,0   96,4   3,6
+28  5  STREICHER - BROJER - KREUTZER - BABSCH          3N    O   =  P4     -400    24,0  4,0   85,7  14,3
+24  3  THOMASBERGER - WIEDMANN - DOUTLIK - REMMEL      4H    O   =  K3     -420    22,0  6,0   78,6  21,4
+ 8 34  PETZELBAUER - KORBEL - DAICHENDT - HACKL        4P    O  +1  T7     -450    14,0 14,0   50,0  50,0
+ 9 36  MUSIOL - SOVA - SVANDA - SVANDA                 4H    O  +1  P4     -450    14,0 14,0   50,0  50,0
+10 23  HERMANN - TSIOKRIS - SUMMER - PAESOLD           4H    O  +1  P4     -450    14,0 14,0   50,0  50,0
+13 29  LINDENLAUF - PROPST - FERLIC - POLASCHEGG       5H    O   =  P4     -450    14,0 14,0   50,0  50,0
+14 31  GUJA - SCHWAB - LEIFERT - WANHA                 4H    O  +1  P4     -450    14,0 14,0   50,0  50,0
+16 35  DE DEKEN - DE DEKEN - ALLAF - PENDL             4H    O  +1  K2     -450    14,0 14,0   50,0  50,0
+30  6  CHARKOW - WEINBERGER - BABSCH - SPIEß           5H    O   =  P4     -450    14,0 14,0   50,0  50,0
+12 27  WASSER - ARTMER - ROUPEC - KUBAK                3N    O  +2  P4     -460     6,0 22,0   21,4  78,6
+11 25  KAUTZKY - KNOB - GYIMESI - ZUPANCIC             4H    O  +2  P4     -480     2,0 26,0    7,1  92,9
+15 33  ZOLLE - FINZ - KERBL - HORNISCHER               4H    O  +2  P8     -480     2,0 26,0    7,1  92,9
+26  4  BACHMAIER - REITER - ARTMER - SIMON             4H    O  +2  P4     -480     2,0 26,0    7,1  92,9
+
+
+
+-------------------------------------------------------------------------------------------------------------
+3      K74           
+Süd    762           
+O-W    86            
+       AD1098        
+D5            AB93   
+D             B1098  
+A1043         KB75   
+K76543        B      
+       10862         
+       AK543         
+       D92           
+       2             
+
+4K W -130            
+       T  K  H  P  N
+NS     5  3  6  5  5 
+O      8  9  7  8  8 
+W      : 10  :  :  : 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+13 28  LINDENLAUF - PROPST - STREICHER - BROJER        4Kx   O  -3  T2    800      28,0  0,0  100,0   0,0
+10 21  HERMANN - TSIOKRIS - TERRANEO - SAURER          3T    W  -3  P2    300      25,0  3,0   89,3  10,7
+29  6  FERLIC - POLASCHEGG - BABSCH - SPIEß            4K    O  -3  HA    300      25,0  3,0   89,3  10,7
+16 34  DE DEKEN - DE DEKEN - DAICHENDT - HACKL         4K    O  -1  HA    100      22,0  6,0   78,6  21,4
+ 9 35  MUSIOL - SOVA - ALLAF - PENDL                   3K    O   =  HA     -110    18,0 10,0   64,3  35,7
+14 30  GUJA - SCHWAB - CHARKOW - WEINBERGER            3K    W   =  H6     -110    18,0 10,0   64,3  35,7
+27  5  ROUPEC - KUBAK - KREUTZER - BABSCH              2K    O  +1  HA     -110    18,0 10,0   64,3  35,7
+12 26  WASSER - ARTMER - BACHMAIER - REITER            2N    O   =  H3     -120    13,0 15,0   46,4  53,6
+25  4  GYIMESI - ZUPANCIC - ARTMER - SIMON             2N    O   =  P6     -120    13,0 15,0   46,4  53,6
+31  7  LEIFERT - WANHA - GRÜMM - TRAMPISCH             4K    W   =  H2     -130    10,0 18,0   35,7  64,3
+ 2 22  MYSKIW - ROHOWSKY - HENSLER - SCHÜLLER          2H    S  -3  KA     -150     7,0 21,0   25,0  75,0
+ 8 33  PETZELBAUER - KORBEL - KERBL - HORNISCHER       3H    S  -3  K7     -150     7,0 21,0   25,0  75,0
+11 24  KAUTZKY - KNOB - THOMASBERGER - WIEDMANN        3T    N  -4  HB     -200     4,0 24,0   14,3  85,7
+ 1 36  FISCHER - LAZAR - SVANDA - SVANDA               3Tx   N  -4  HB     -800     2,0 26,0    7,1  92,9
+15 32  ZOLLE - FINZ - ILLNER - KERN                    3Hx   S  -5  HD     -1100    0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+4      K9742         
+West   4             
+Alle   DB10954       
+       6             
+---           ADB86  
+AKDB1093      8      
+A3            K7     
+AD107         KB432  
+       1053          
+       7652          
+       862           
+       985           
+
+7N W -2220           
+       T  K  H  P  N
+NS     0  5  0  2  0 
+OW    13  8 13 11 13 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 9 35  MUSIOL - SOVA - ALLAF - PENDL                   4H    W  +3  T6     -710    28,0  0,0  100,0   0,0
+ 1 36  FISCHER - LAZAR - SVANDA - SVANDA               6H    W  +1  T6     -1460   24,0  4,0   85,7  14,3
+ 2 22  MYSKIW - ROHOWSKY - HENSLER - SCHÜLLER          6H    W  +1  P4     -1460   24,0  4,0   85,7  14,3
+13 28  LINDENLAUF - PROPST - STREICHER - BROJER        6H    W  +1  KD     -1460   24,0  4,0   85,7  14,3
+11 24  KAUTZKY - KNOB - THOMASBERGER - WIEDMANN        6N    O  +1  K2     -1470   19,0  9,0   67,9  32,1
+12 26  WASSER - ARTMER - BACHMAIER - REITER            6N    W  +1  KD     -1470   19,0  9,0   67,9  32,1
+16 34  DE DEKEN - DE DEKEN - DAICHENDT - HACKL         7T    W   =  P2     -2140   16,0 12,0   57,1  42,9
+ 8 33  PETZELBAUER - KORBEL - KERBL - HORNISCHER       7H    W   =  T7     -2210   11,0 17,0   39,3  60,7
+10 21  HERMANN - TSIOKRIS - TERRANEO - SAURER          7H    W   =  KD     -2210   11,0 17,0   39,3  60,7
+27  5  ROUPEC - KUBAK - KREUTZER - BABSCH              7H    W   =  KD     -2210   11,0 17,0   39,3  60,7
+31  7  LEIFERT - WANHA - GRÜMM - TRAMPISCH             7H    W   =  KD     -2210   11,0 17,0   39,3  60,7
+14 30  GUJA - SCHWAB - CHARKOW - WEINBERGER            7N    O   =  K6     -2220    4,0 24,0   14,3  85,7
+15 32  ZOLLE - FINZ - ILLNER - KERN                    7N    O   =  T9     -2220    4,0 24,0   14,3  85,7
+25  4  GYIMESI - ZUPANCIC - ARTMER - SIMON             7N    O   =  H6     -2220    4,0 24,0   14,3  85,7
+29  6  FERLIC - POLASCHEGG - BABSCH - SPIEß            7Nx   O   =  K2     -2490    0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+5      A94           
+Nord   982           
+N-S    KB954         
+       B5            
+8532          KDB    
+DB            AK5    
+1076          A83    
+AK104         9832   
+       1076          
+       107643        
+       D2            
+       D76           
+
+3P O -140            
+       T  K  H  P  N
+NS     3  5  5  3  3 
+OW    10  8  7  9  8 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+32  8  ILLNER - KERN - PETZELBAUER - KORBEL            3N    O  -2  H7    100      28,0  0,0  100,0   0,0
+11 22  KAUTZKY - KNOB - HENSLER - SCHÜLLER             3N    O  -1  KD    50       26,0  2,0   92,9   7,1
+10 36  HERMANN - TSIOKRIS - SVANDA - SVANDA            3N    O   =  H7     -400    23,0  5,0   82,1  17,9
+15 31  ZOLLE - FINZ - LEIFERT - WANHA                  3N    O   =  H7     -400    23,0  5,0   82,1  17,9
+ 1 35  FISCHER - LAZAR - ALLAF - PENDL                 3N    O  +1  H6     -430    10,0 18,0   35,7  64,3
+ 2 21  MYSKIW - ROHOWSKY - TERRANEO - SAURER           3N    O  +1  H4     -430    10,0 18,0   35,7  64,3
+ 3 23  DOUTLIK - REMMEL - SUMMER - PAESOLD             3N    O  +1  H7     -430    10,0 18,0   35,7  64,3
+ 9 34  MUSIOL - SOVA - DAICHENDT - HACKL               3N    O  +1  H3     -430    10,0 18,0   35,7  64,3
+12 25  WASSER - ARTMER - GYIMESI - ZUPANCIC            3N    O  +1  H3     -430    10,0 18,0   35,7  64,3
+13 27  LINDENLAUF - PROPST - ROUPEC - KUBAK            3N    O  +1  H3     -430    10,0 18,0   35,7  64,3
+14 29  GUJA - SCHWAB - FERLIC - POLASCHEGG             3N    O  +1  H7     -430    10,0 18,0   35,7  64,3
+16 33  DE DEKEN - DE DEKEN - KERBL - HORNISCHER        3N    O  +1  H7     -430    10,0 18,0   35,7  64,3
+26  5  BACHMAIER - REITER - KREUTZER - BABSCH          3N    O  +1  H5     -430    10,0 18,0   35,7  64,3
+28  6  STREICHER - BROJER - BABSCH - SPIEß             3N    O  +1  H2     -430    10,0 18,0   35,7  64,3
+30  7  CHARKOW - WEINBERGER - GRÜMM - TRAMPISCH        3N    O  +1  P6     -430    10,0 18,0   35,7  64,3
+
+
+
+-------------------------------------------------------------------------------------------------------------
+6      A1032         
+Ost    964           
+O-W    AK            
+       AB108         
+KB64          D      
+A872          KB5    
+B2            D98743 
+D73           965    
+       9875          
+       D103          
+       1065          
+       K42           
+
+3P S 140             
+       T  K  H  P  N
+NS     9  7  8  9  7 
+OW     4  6  5  4  5 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+10 36  HERMANN - TSIOKRIS - SVANDA - SVANDA            2K    O  -3  T2    300      26,0  2,0   92,9   7,1
+13 27  LINDENLAUF - PROPST - ROUPEC - KUBAK            3H    W  -3  H4    300      26,0  2,0   92,9   7,1
+16 33  DE DEKEN - DE DEKEN - KERBL - HORNISCHER        2T    O  -3  KA    300      26,0  2,0   92,9   7,1
+12 25  WASSER - ARTMER - GYIMESI - ZUPANCIC            2K    O  -2  P9    200      22,0  6,0   78,6  21,4
+30  7  CHARKOW - WEINBERGER - GRÜMM - TRAMPISCH        2P    S  +1  KB    140      20,0  8,0   71,4  28,6
+ 9 34  MUSIOL - SOVA - DAICHENDT - HACKL               1N    N  +1  PD    120      18,0 10,0   64,3  35,7
+15 31  ZOLLE - FINZ - LEIFERT - WANHA                  2P    S   =  KB    110      16,0 12,0   57,1  42,9
+ 1 35  FISCHER - LAZAR - ALLAF - PENDL                 2K    O  -1  P9    100      14,0 14,0   50,0  50,0
+ 3 23  DOUTLIK - REMMEL - SUMMER - PAESOLD             1N    N   =  K8    90       10,0 18,0   35,7  64,3
+11 22  KAUTZKY - KNOB - HENSLER - SCHÜLLER             1N    N   =  K3    90       10,0 18,0   35,7  64,3
+32  8  ILLNER - KERN - PETZELBAUER - KORBEL            1N    N   =  K2    90       10,0 18,0   35,7  64,3
+26  5  BACHMAIER - REITER - KREUTZER - BABSCH          2P    S  -1  T3      -50     6,0 22,0   21,4  78,6
+14 29  GUJA - SCHWAB - FERLIC - POLASCHEGG             1N    N  -2  K4     -100     3,0 25,0   10,7  89,3
+28  6  STREICHER - BROJER - BABSCH - SPIEß             1N    N  -2  K4     -100     3,0 25,0   10,7  89,3
+ 2 21  MYSKIW - ROHOWSKY - TERRANEO - SAURER           3P    S  -4  KB     -200     0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+7      K10753        
+Süd    A72           
+Alle   43            
+       KB7           
+A96           DB842  
+KD            B1054  
+KB1098        ---    
+865           AD94   
+       ---           
+       9863          
+       AD7652        
+       1032          
+
+4P O -620            
+       T  K  H  P  N
+NS     4  5  4  3  4 
+O      9  7  8 10  9 
+W      :  :  :  9  : 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+13 26  LINDENLAUF - PROPST - BACHMAIER - REITER        2K    W  -2  P3    200      27,0  1,0   96,4   3,6
+31  8  LEIFERT - WANHA - PETZELBAUER - KORBEL          2K    W  -2  P3    200      27,0  1,0   96,4   3,6
+ 2 36  MYSKIW - ROHOWSKY - SVANDA - SVANDA             3T    W  -1  K4    100      23,0  5,0   82,1  17,9
+33  9  KERBL - HORNISCHER - MUSIOL - SOVA              3N    O  -1  T2    100      23,0  5,0   82,1  17,9
+15 30  ZOLLE - FINZ - CHARKOW - WEINBERGER             2P    O   =  H9     -110    20,0  8,0   71,4  28,6
+ 3 22  DOUTLIK - REMMEL - HENSLER - SCHÜLLER           1N    W  +1  P5     -120    18,0 10,0   64,3  35,7
+10 35  HERMANN - TSIOKRIS - ALLAF - PENDL              1N    W  +2  H2     -150    15,0 13,0   53,6  46,4
+27  6  ROUPEC - KUBAK - BABSCH - SPIEß                 2N    W  +1  P3     -150    15,0 13,0   53,6  46,4
+29  7  FERLIC - POLASCHEGG - GRÜMM - TRAMPISCH         1N    O  +4  K5     -210    12,0 16,0   42,9  57,1
+ 4 24  ARTMER - SIMON - THOMASBERGER - WIEDMANN        1P    N  -3  HB     -300     8,0 20,0   28,6  71,4
+12 23  WASSER - ARTMER - SUMMER - PAESOLD              1P    N  -3  HB     -300     8,0 20,0   28,6  71,4
+16 32  DE DEKEN - DE DEKEN - ILLNER - KERN             1P    N  -3  HB     -300     8,0 20,0   28,6  71,4
+ 1 34  FISCHER - LAZAR - DAICHENDT - HACKL             2Kx   S  -2  HK     -500     4,0 24,0   14,3  85,7
+14 28  GUJA - SCHWAB - STREICHER - BROJER              3N    O   =  H8     -600     2,0 26,0    7,1  92,9
+11 21  KAUTZKY - KNOB - TERRANEO - SAURER              1Px   N  -4  HK     -1100    0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+8      AD53          
+West   B9            
+Keine  KDB           
+       DB73          
+KB2           1076   
+6             KD752  
+7532          A964   
+K10954        A      
+       984           
+       A10843        
+       108           
+       862           
+
+2H N 110             
+       T  K  H  P  N
+NS     7  6  8  7  7 
+O      5  7  5  5  6 
+W      :  :  :  6  : 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+11 21  KAUTZKY - KNOB - TERRANEO - SAURER              2H    W  -3  KK    150      27,0  1,0   96,4   3,6
+14 28  GUJA - SCHWAB - STREICHER - BROJER              2P    W  -3  KK    150      27,0  1,0   96,4   3,6
+ 3 22  DOUTLIK - REMMEL - HENSLER - SCHÜLLER           2H    N  +1  P10   140      24,0  4,0   85,7  14,3
+ 2 36  MYSKIW - ROHOWSKY - SVANDA - SVANDA             2H    S   =  TA    110      20,0  8,0   71,4  28,6
+31  8  LEIFERT - WANHA - PETZELBAUER - KORBEL          2H    N   =  TA    110      20,0  8,0   71,4  28,6
+33  9  KERBL - HORNISCHER - MUSIOL - SOVA              2H    N   =  P6    110      20,0  8,0   71,4  28,6
+ 1 34  FISCHER - LAZAR - DAICHENDT - HACKL             3K    O  -2  K10   100      14,0 14,0   50,0  50,0
+10 35  HERMANN - TSIOKRIS - ALLAF - PENDL              3K    O  -2  P8    100      14,0 14,0   50,0  50,0
+16 32  DE DEKEN - DE DEKEN - ILLNER - KERN             3K    O  -2  P9    100      14,0 14,0   50,0  50,0
+15 30  ZOLLE - FINZ - CHARKOW - WEINBERGER             3K    O  -1  P9    50        9,0 19,0   32,1  67,9
+29  7  FERLIC - POLASCHEGG - GRÜMM - TRAMPISCH         3K    O  -1  T2    50        9,0 19,0   32,1  67,9
+ 4 24  ARTMER - SIMON - THOMASBERGER - WIEDMANN        2P    N  -1  HK      -50     6,0 22,0   21,4  78,6
+12 23  WASSER - ARTMER - SUMMER - PAESOLD              3K    O   =  T2     -110     2,0 26,0    7,1  92,9
+13 26  LINDENLAUF - PROPST - BACHMAIER - REITER        3K    O   =  K10    -110     2,0 26,0    7,1  92,9
+27  6  ROUPEC - KUBAK - BABSCH - SPIEß                 3K    O   =  K10    -110     2,0 26,0    7,1  92,9
+
+
+
+-------------------------------------------------------------------------------------------------------------
+9      AK5           
+Nord   B63           
+O-W    B1043         
+       B65           
+D742          B109   
+A105          KD942  
+AD965         2      
+7             KD84   
+       863           
+       87            
+       K87           
+       A10932        
+
+4H O -620            
+       T  K  H  P  N
+NS     6  5  3  3  5 
+OW     7  8 10  9  8 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+28  7  STREICHER - BROJER - GRÜMM - TRAMPISCH          3N    W  -1  K4    100      27,0  1,0   96,4   3,6
+30  8  CHARKOW - WEINBERGER - PETZELBAUER - KORBEL     4H    O  -1  P3    100      27,0  1,0   96,4   3,6
+12 22  WASSER - ARTMER - HENSLER - SCHÜLLER            2H    O  +1  H8     -140    24,0  4,0   85,7  14,3
+14 27  GUJA - SCHWAB - ROUPEC - KUBAK                  3N    W   =  H6     -600    22,0  6,0   78,6  21,4
+ 1 33  FISCHER - LAZAR - KERBL - HORNISCHER            4H    O   =  P3     -620    10,0 18,0   35,7  64,3
+ 2 35  MYSKIW - ROHOWSKY - ALLAF - PENDL               4H    O   =  P8     -620    10,0 18,0   35,7  64,3
+ 3 21  DOUTLIK - REMMEL - TERRANEO - SAURER            4H    O   =  H8     -620    10,0 18,0   35,7  64,3
+ 4 23  ARTMER - SIMON - SUMMER - PAESOLD               4H    O   =  P3     -620    10,0 18,0   35,7  64,3
+ 5 25  KREUTZER - BABSCH - GYIMESI - ZUPANCIC          4H    O   =  H8     -620    10,0 18,0   35,7  64,3
+11 36  KAUTZKY - KNOB - SVANDA - SVANDA                4H    O   =  H8     -620    10,0 18,0   35,7  64,3
+13 24  LINDENLAUF - PROPST - THOMASBERGER - WIEDMANN   4H    O   =  P3     -620    10,0 18,0   35,7  64,3
+15 29  ZOLLE - FINZ - FERLIC - POLASCHEGG              4H    O   =  P8     -620    10,0 18,0   35,7  64,3
+16 31  DE DEKEN - DE DEKEN - LEIFERT - WANHA           4H    O   =  TA     -620    10,0 18,0   35,7  64,3
+32  9  ILLNER - KERN - MUSIOL - SOVA                   4H    O   =  P6     -620    10,0 18,0   35,7  64,3
+34 10  DAICHENDT - HACKL - HERMANN - TSIOKRIS          4H    O   =  H7     -620    10,0 18,0   35,7  64,3
+
+
+
+-------------------------------------------------------------------------------------------------------------
+10     8754          
+Ost    1065          
+Alle   D             
+       A8742         
+DB96          A2     
+KB            D87    
+763           KB982  
+D965          K103   
+       K103          
+       A9432         
+       A1054         
+       B             
+
+2N O -120            
+       T  K  H  P  N
+NS     6  5  8  7  5 
+O      7  8  4  5  8 
+W      :  7  :  :  : 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+15 29  ZOLLE - FINZ - FERLIC - POLASCHEGG              3N    W  -3  H5    300      28,0  0,0  100,0   0,0
+28  7  STREICHER - BROJER - GRÜMM - TRAMPISCH          3K    O  -2  HA    200      26,0  2,0   92,9   7,1
+30  8  CHARKOW - WEINBERGER - PETZELBAUER - KORBEL     2H    S  +2  K3    170      24,0  4,0   85,7  14,3
+ 2 35  MYSKIW - ROHOWSKY - ALLAF - PENDL               2H    S  +1  K3    140      18,0 10,0   64,3  35,7
+ 4 23  ARTMER - SIMON - SUMMER - PAESOLD               2H    S  +1  K7    140      18,0 10,0   64,3  35,7
+11 36  KAUTZKY - KNOB - SVANDA - SVANDA                3H    S   =  T5    140      18,0 10,0   64,3  35,7
+12 22  WASSER - ARTMER - HENSLER - SCHÜLLER            2H    N  +1  K3    140      18,0 10,0   64,3  35,7
+13 24  LINDENLAUF - PROPST - THOMASBERGER - WIEDMANN   2H    S  +1  PD    140      18,0 10,0   64,3  35,7
+ 1 33  FISCHER - LAZAR - KERBL - HORNISCHER            3K    O  -1  TB    100      10,0 18,0   35,7  64,3
+ 3 21  DOUTLIK - REMMEL - TERRANEO - SAURER            3K    O  -1  TB    100      10,0 18,0   35,7  64,3
+34 10  DAICHENDT - HACKL - HERMANN - TSIOKRIS          3K    O  -1  TB    100      10,0 18,0   35,7  64,3
+16 31  DE DEKEN - DE DEKEN - LEIFERT - WANHA           1N    O   =  HA      -90     5,0 23,0   17,9  82,1
+32  9  ILLNER - KERN - MUSIOL - SOVA                   1N    O   =  H5      -90     5,0 23,0   17,9  82,1
+ 5 25  KREUTZER - BABSCH - GYIMESI - ZUPANCIC          3H    S  -1  K2     -100     2,0 26,0    7,1  92,9
+14 27  GUJA - SCHWAB - ROUPEC - KUBAK                  3K    O  +1  TB     -130     0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+11     AB1043        
+Süd    A1085         
+Keine  D6            
+       D9            
+D             K762   
+B632          KD9    
+B10943        8752   
+A83           42     
+       985           
+       74            
+       AK            
+       KB10765       
+
+3N S 400             
+       T  K  H  P  N
+NS    10  5  7  9  9 
+OW     3  7  6  4  4 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 6 26  BABSCH - SPIEß - BACHMAIER - REITER             3N    S  +2  KB    460      28,0  0,0  100,0   0,0
+15 28  ZOLLE - FINZ - STREICHER - BROJER               2P    S  +2  K5    170      26,0  2,0   92,9   7,1
+ 2 34  MYSKIW - ROHOWSKY - DAICHENDT - HACKL           3T    S  +2  KB    150      24,0  4,0   85,7  14,3
+ 3 36  DOUTLIK - REMMEL - SVANDA - SVANDA              4P    N  -1  T4      -50    16,0 12,0   57,1  42,9
+ 5 24  KREUTZER - BABSCH - THOMASBERGER - WIEDMANN     4P    N  -1  P2      -50    16,0 12,0   57,1  42,9
+13 23  LINDENLAUF - PROPST - SUMMER - PAESOLD          4P    S  -1  KB      -50    16,0 12,0   57,1  42,9
+14 25  GUJA - SCHWAB - GYIMESI - ZUPANCIC              4P    N  -1  K8      -50    16,0 12,0   57,1  42,9
+16 30  DE DEKEN - DE DEKEN - CHARKOW - WEINBERGER      4P    N  -1  HK      -50    16,0 12,0   57,1  42,9
+31  9  LEIFERT - WANHA - MUSIOL - SOVA                 4P    N  -1  H4      -50    16,0 12,0   57,1  42,9
+33 10  KERBL - HORNISCHER - HERMANN - TSIOKRIS         4P    N  -1  K7      -50    16,0 12,0   57,1  42,9
+ 1 32  FISCHER - LAZAR - ILLNER - KERN                 4P    N  -2  K6     -100     4,0 24,0   14,3  85,7
+ 4 22  ARTMER - SIMON - HENSLER - SCHÜLLER             4P    N  -2  K8     -100     4,0 24,0   14,3  85,7
+12 21  WASSER - ARTMER - TERRANEO - SAURER             4P    N  -2  K5     -100     4,0 24,0   14,3  85,7
+29  8  FERLIC - POLASCHEGG - PETZELBAUER - KORBEL      4P    N  -2  KD     -100     4,0 24,0   14,3  85,7
+35 11  ALLAF - PENDL - KAUTZKY - KNOB                  4P    N  -2  K5     -100     4,0 24,0   14,3  85,7
+
+
+
+-------------------------------------------------------------------------------------------------------------
+12     D63           
+West   A643          
+N-S    KD            
+       B873          
+1092          B8754  
+KB            D52    
+98654         3      
+KD4           A965   
+       AK            
+       10987         
+       AB1072        
+       102           
+
+3Px W 100            
+       T  K  H  P  N
+NS     6  9  9  5  8 
+OW     6  4  3  8  4 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 4 22  ARTMER - SIMON - HENSLER - SCHÜLLER             4H    N  +1  K3    650      27,0  1,0   96,4   3,6
+15 28  ZOLLE - FINZ - STREICHER - BROJER               4H    S  +1  K4    650      27,0  1,0   96,4   3,6
+ 2 34  MYSKIW - ROHOWSKY - DAICHENDT - HACKL           3N    N  +1  P5    630      24,0  4,0   85,7  14,3
+ 3 36  DOUTLIK - REMMEL - SVANDA - SVANDA              4H    N   =  K3    620      18,0 10,0   64,3  35,7
+ 5 24  KREUTZER - BABSCH - THOMASBERGER - WIEDMANN     4H    N   =  K3    620      18,0 10,0   64,3  35,7
+13 23  LINDENLAUF - PROPST - SUMMER - PAESOLD          4H    N   =  K3    620      18,0 10,0   64,3  35,7
+29  8  FERLIC - POLASCHEGG - PETZELBAUER - KORBEL      4H    N   =  K6    620      18,0 10,0   64,3  35,7
+33 10  KERBL - HORNISCHER - HERMANN - TSIOKRIS         4H    N   =  K3    620      18,0 10,0   64,3  35,7
+ 6 26  BABSCH - SPIEß - BACHMAIER - REITER             2H    N  +2  K5    170      12,0 16,0   42,9  57,1
+ 1 32  FISCHER - LAZAR - ILLNER - KERN                 3H    N  -1  K2     -100     6,0 22,0   21,4  78,6
+12 21  WASSER - ARTMER - TERRANEO - SAURER             3N    S  -1  P2     -100     6,0 22,0   21,4  78,6
+14 25  GUJA - SCHWAB - GYIMESI - ZUPANCIC              4H    S  -1  P10    -100     6,0 22,0   21,4  78,6
+16 30  DE DEKEN - DE DEKEN - CHARKOW - WEINBERGER      4P    S  -1  P10    -100     6,0 22,0   21,4  78,6
+35 11  ALLAF - PENDL - KAUTZKY - KNOB                  4H    N  -1  K5     -100     6,0 22,0   21,4  78,6
+31  9  LEIFERT - WANHA - MUSIOL - SOVA                 4H    S  -2  T2     -200     0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+13     KD93          
+Nord   1054          
+Alle   A9432         
+       3             
+A64           1085   
+AKB2          D8     
+85            107    
+10864         AKB752 
+       B72           
+       9763          
+       KDB6          
+       D9            
+
+5H O -650            
+       T  K  H  P  N
+NS     2  8  2  5  2 
+O     11  5 11  5  8 
+W      :  :  :  6  : 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+13 22  LINDENLAUF - PROPST - HENSLER - SCHÜLLER        3K    S  -1  HA     -100    28,0  0,0  100,0   0,0
+ 5 23  KREUTZER - BABSCH - SUMMER - PAESOLD            4T    W  +1  PK     -150    18,0 10,0   64,3  35,7
+ 6 25  BABSCH - SPIEß - GYIMESI - ZUPANCIC             3T    O  +2  KK     -150    18,0 10,0   64,3  35,7
+ 7 27  GRÜMM - TRAMPISCH - ROUPEC - KUBAK              4T    O  +1  KK     -150    18,0 10,0   64,3  35,7
+14 24  GUJA - SCHWAB - THOMASBERGER - WIEDMANN         4T    W  +1  PK     -150    18,0 10,0   64,3  35,7
+15 26  ZOLLE - FINZ - BACHMAIER - REITER               4T    O  +1  KK     -150    18,0 10,0   64,3  35,7
+16 29  DE DEKEN - DE DEKEN - FERLIC - POLASCHEGG       3T    W  +2  PK     -150    18,0 10,0   64,3  35,7
+30  9  CHARKOW - WEINBERGER - MUSIOL - SOVA            3T    W  +2  PK     -150    18,0 10,0   64,3  35,7
+34 11  DAICHENDT - HACKL - KAUTZKY - KNOB              3T    W  +2  PK     -150    18,0 10,0   64,3  35,7
+36 12  SVANDA - SVANDA - WASSER - ARTMER               4T    W  +1  H7     -150    18,0 10,0   64,3  35,7
+32 10  ILLNER - KERN - HERMANN - TSIOKRIS              3Kx   S  -1  HA     -200     8,0 20,0   28,6  71,4
+ 2 33  MYSKIW - ROHOWSKY - KERBL - HORNISCHER          5T    W   =  KA     -600     4,0 24,0   14,3  85,7
+ 3 35  DOUTLIK - REMMEL - ALLAF - PENDL                3N    O   =  KK     -600     4,0 24,0   14,3  85,7
+ 4 21  ARTMER - SIMON - TERRANEO - SAURER              5T    O   =  KK     -600     4,0 24,0   14,3  85,7
+ 1 31  FISCHER - LAZAR - LEIFERT - WANHA               3N    O  +2  H7     -660     0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+14     87            
+Ost    A             
+Keine  KB105         
+       DB10964       
+AB43          D62    
+8753          KB1042 
+A764          32     
+7             AK8    
+       K1095         
+       D96           
+       D98           
+       532           
+
+3H O -140            
+       T  K  H  P  N
+NS     7  6  3  4  5 
+OW     6  7  9  8  8 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 7 27  GRÜMM - TRAMPISCH - ROUPEC - KUBAK              4H    O  -1  T2    50       26,0  2,0   92,9   7,1
+15 26  ZOLLE - FINZ - BACHMAIER - REITER               5H    O  -1  T2    50       26,0  2,0   92,9   7,1
+32 10  ILLNER - KERN - HERMANN - TSIOKRIS              4H    O  -1  K8    50       26,0  2,0   92,9   7,1
+36 12  SVANDA - SVANDA - WASSER - ARTMER               3H    O   =  T3     -140    22,0  6,0   78,6  21,4
+ 2 33  MYSKIW - ROHOWSKY - KERBL - HORNISCHER          3H    O  +1  P10    -170    19,0  9,0   67,9  32,1
+ 6 25  BABSCH - SPIEß - GYIMESI - ZUPANCIC             2H    O  +2  P10    -170    19,0  9,0   67,9  32,1
+30  9  CHARKOW - WEINBERGER - MUSIOL - SOVA            4Tx   N  -2  TA     -300    16,0 12,0   57,1  42,9
+ 1 31  FISCHER - LAZAR - LEIFERT - WANHA               4H    O   =  P9     -420    10,0 18,0   35,7  64,3
+ 3 35  DOUTLIK - REMMEL - ALLAF - PENDL                4H    O   =  P9     -420    10,0 18,0   35,7  64,3
+ 4 21  ARTMER - SIMON - TERRANEO - SAURER              4H    O   =  P10    -420    10,0 18,0   35,7  64,3
+ 5 23  KREUTZER - BABSCH - SUMMER - PAESOLD            4H    O   =  T2     -420    10,0 18,0   35,7  64,3
+16 29  DE DEKEN - DE DEKEN - FERLIC - POLASCHEGG       4H    O   =  K8     -420    10,0 18,0   35,7  64,3
+14 24  GUJA - SCHWAB - THOMASBERGER - WIEDMANN         5Tx   N  -3  HB     -500     3,0 25,0   10,7  89,3
+34 11  DAICHENDT - HACKL - KAUTZKY - KNOB              5Tx   N  -3  HB     -500     3,0 25,0   10,7  89,3
+13 22  LINDENLAUF - PROPST - HENSLER - SCHÜLLER        4Kx   S  -4  H3     -800     0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+15     832           
+Süd    K10532        
+N-S    K83           
+       96            
+K109          AD     
+A8764         DB9    
+B10           AD974  
+K87           DB2    
+       B7654         
+       ---           
+       652           
+       A10543        
+
+5N W -460            
+       T  K  H  P  N
+NS     4  2  3  4  2 
+OW     9 11 10  8 11 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 5 22  KREUTZER - BABSCH - HENSLER - SCHÜLLER          6H    W  -3  T9    150      26,0  2,0   92,9   7,1
+ 8 28  PETZELBAUER - KORBEL - STREICHER - BROJER       5H    W  -3  T7    150      26,0  2,0   92,9   7,1
+35 12  ALLAF - PENDL - WASSER - ARTMER                 6H    W  -3  T9    150      26,0  2,0   92,9   7,1
+ 3 34  DOUTLIK - REMMEL - DAICHENDT - HACKL            4H    W  -2  T9    100      21,0  7,0   75,0  25,0
+ 7 26  GRÜMM - TRAMPISCH - BACHMAIER - REITER          5H    W  -2  P2    100      21,0  7,0   75,0  25,0
+ 4 36  ARTMER - SIMON - SVANDA - SVANDA                4H    O  -1  P4    50       17,0 11,0   60,7  39,3
+16 27  DE DEKEN - DE DEKEN - ROUPEC - KUBAK            4H    W  -1  T9    50       17,0 11,0   60,7  39,3
+21 13  TERRANEO - SAURER - LINDENLAUF - PROPST         3N    O   =  P4     -400    14,0 14,0   50,0  50,0
+ 6 24  BABSCH - SPIEß - THOMASBERGER - WIEDMANN        4H    W   =  T9     -420    12,0 16,0   42,9  57,1
+ 1 30  FISCHER - LAZAR - CHARKOW - WEINBERGER          3N    W  +2  P8     -460     7,0 21,0   25,0  75,0
+ 2 32  MYSKIW - ROHOWSKY - ILLNER - KERN               3N    O  +2  T3     -460     7,0 21,0   25,0  75,0
+15 25  ZOLLE - FINZ - GYIMESI - ZUPANCIC               3N    O  +2  P4     -460     7,0 21,0   25,0  75,0
+33 11  KERBL - HORNISCHER - KAUTZKY - KNOB             3N    O  +2  P4     -460     7,0 21,0   25,0  75,0
+14 23  GUJA - SCHWAB - SUMMER - PAESOLD                3N    O  +3  P5     -490     1,0 27,0    3,6  96,4
+31 10  LEIFERT - WANHA - HERMANN - TSIOKRIS            3N    O  +3  T2     -490     1,0 27,0    3,6  96,4
+
+
+
+-------------------------------------------------------------------------------------------------------------
+16     K             
+West   DB1098        
+O-W    8532          
+       D82           
+652           ADB974 
+A54           K3     
+D74           AK9    
+AK74          53     
+       1083          
+       762           
+       B106          
+       B1096         
+
+7N W -2220           
+       T  K  H  P  N
+NS     2  1  3  0  0 
+OW    11 12  9 13 13 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 2 32  MYSKIW - ROHOWSKY - ILLNER - KERN               4P    O  +3  TB     -710    23,0  5,0   82,1  17,9
+ 4 36  ARTMER - SIMON - SVANDA - SVANDA                4P    W  +3  HD     -710    23,0  5,0   82,1  17,9
+ 5 22  KREUTZER - BABSCH - HENSLER - SCHÜLLER          5P    O  +2  H2     -710    23,0  5,0   82,1  17,9
+ 6 24  BABSCH - SPIEß - THOMASBERGER - WIEDMANN        4P    O  +3  H2     -710    23,0  5,0   82,1  17,9
+ 8 28  PETZELBAUER - KORBEL - STREICHER - BROJER       4P    O  +3  T7     -710    23,0  5,0   82,1  17,9
+21 13  TERRANEO - SAURER - LINDENLAUF - PROPST         4P    O  +3  H2     -710    23,0  5,0   82,1  17,9
+ 1 30  FISCHER - LAZAR - CHARKOW - WEINBERGER          6P    O  +1  TB     -1460    8,0 20,0   28,6  71,4
+ 3 34  DOUTLIK - REMMEL - DAICHENDT - HACKL            6P    O  +1  TB     -1460    8,0 20,0   28,6  71,4
+ 7 26  GRÜMM - TRAMPISCH - BACHMAIER - REITER          6P    O  +1  TB     -1460    8,0 20,0   28,6  71,4
+14 23  GUJA - SCHWAB - SUMMER - PAESOLD                6P    O  +1  H2     -1460    8,0 20,0   28,6  71,4
+15 25  ZOLLE - FINZ - GYIMESI - ZUPANCIC               6P    O  +1  H7     -1460    8,0 20,0   28,6  71,4
+16 27  DE DEKEN - DE DEKEN - ROUPEC - KUBAK            6P    O  +1  H7     -1460    8,0 20,0   28,6  71,4
+31 10  LEIFERT - WANHA - HERMANN - TSIOKRIS            6P    O  +1  TB     -1460    8,0 20,0   28,6  71,4
+33 11  KERBL - HORNISCHER - KAUTZKY - KNOB             6P    O  +1  H2     -1460    8,0 20,0   28,6  71,4
+35 12  ALLAF - PENDL - WASSER - ARTMER                 6P    O  +1  P3     -1460    8,0 20,0   28,6  71,4
+
+
+
+-------------------------------------------------------------------------------------------------------------
+17     AKD           
+Nord   9543          
+Keine  A3            
+       ADB10         
+B10642        985    
+K6            AB1087 
+KD6           984    
+K52           86     
+       73            
+       D2            
+       B10752        
+       9743          
+
+3T N 110             
+       T  K  H  P  N
+NS     9  8  6  6  6 
+O      4  4  6  6  6 
+W      :  :  7  :  : 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 1 28  FISCHER - LAZAR - STREICHER - BROJER            2N    N   =  HB    120      24,0  4,0   85,7  14,3
+ 4 35  ARTMER - SIMON - ALLAF - PENDL                  2N    N   =  HB    120      24,0  4,0   85,7  14,3
+ 6 23  BABSCH - SPIEß - SUMMER - PAESOLD               2N    N   =  H10   120      24,0  4,0   85,7  14,3
+ 9 29  MUSIOL - SOVA - FERLIC - POLASCHEGG             2N    N   =  H10   120      24,0  4,0   85,7  14,3
+22 14  HENSLER - SCHÜLLER - GUJA - SCHWAB              2N    N   =  HB    120      24,0  4,0   85,7  14,3
+ 2 31  MYSKIW - ROHOWSKY - LEIFERT - WANHA             3N    N  -1  HB      -50    13,0 15,0   46,4  53,6
+ 3 33  DOUTLIK - REMMEL - KERBL - HORNISCHER           2N    N  -1  HB      -50    13,0 15,0   46,4  53,6
+ 7 25  GRÜMM - TRAMPISCH - GYIMESI - ZUPANCIC          1N    N  -1  HB      -50    13,0 15,0   46,4  53,6
+15 24  ZOLLE - FINZ - THOMASBERGER - WIEDMANN          2N    S  -1  P3      -50    13,0 15,0   46,4  53,6
+32 11  ILLNER - KERN - KAUTZKY - KNOB                  2N    N  -1  HB      -50    13,0 15,0   46,4  53,6
+34 12  DAICHENDT - HACKL - WASSER - ARTMER             2N    N  -1  HB      -50    13,0 15,0   46,4  53,6
+ 5 21  KREUTZER - BABSCH - TERRANEO - SAURER           2N    N  -2  HB     -100     3,0 25,0   10,7  89,3
+ 8 27  PETZELBAUER - KORBEL - ROUPEC - KUBAK           2N    N  -2  H7     -100     3,0 25,0   10,7  89,3
+16 26  DE DEKEN - DE DEKEN - BACHMAIER - REITER        3N    N  -2  HB     -100     3,0 25,0   10,7  89,3
+36 13  SVANDA - SVANDA - LINDENLAUF - PROPST           3N    N  -2  HB     -100     3,0 25,0   10,7  89,3
+
+
+
+-------------------------------------------------------------------------------------------------------------
+18     A107          
+Ost    A3            
+N-S    1097654       
+       72            
+84            KDB3   
+D9872         KB64   
+K832          AD     
+A6            854    
+       9652          
+       105           
+       B             
+       KDB1093       
+
+4N O -430            
+       T  K  H  P  N
+NS     7  5  3  4  3 
+OW     6  7  9  8 10 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+34 12  DAICHENDT - HACKL - WASSER - ARTMER             2N    O  -2  TK    100      28,0  0,0  100,0   0,0
+15 24  ZOLLE - FINZ - THOMASBERGER - WIEDMANN          4H    W  -1  K10   50       24,0  4,0   85,7  14,3
+16 26  DE DEKEN - DE DEKEN - BACHMAIER - REITER        4H    O  -1  KB    50       24,0  4,0   85,7  14,3
+22 14  HENSLER - SCHÜLLER - GUJA - SCHWAB              4H    O  -1  KB    50       24,0  4,0   85,7  14,3
+ 1 28  FISCHER - LAZAR - STREICHER - BROJER            4H    O   =  TK     -420    11,0 17,0   39,3  60,7
+ 2 31  MYSKIW - ROHOWSKY - LEIFERT - WANHA             4H    O   =  TK     -420    11,0 17,0   39,3  60,7
+ 3 33  DOUTLIK - REMMEL - KERBL - HORNISCHER           4H    O   =  TK     -420    11,0 17,0   39,3  60,7
+ 4 35  ARTMER - SIMON - ALLAF - PENDL                  4H    O   =  TK     -420    11,0 17,0   39,3  60,7
+ 5 21  KREUTZER - BABSCH - TERRANEO - SAURER           4H    O   =  KB     -420    11,0 17,0   39,3  60,7
+ 6 23  BABSCH - SPIEß - SUMMER - PAESOLD               4H    O   =  TK     -420    11,0 17,0   39,3  60,7
+ 7 25  GRÜMM - TRAMPISCH - GYIMESI - ZUPANCIC          4H    O   =  TK     -420    11,0 17,0   39,3  60,7
+ 8 27  PETZELBAUER - KORBEL - ROUPEC - KUBAK           4H    O   =  T7     -420    11,0 17,0   39,3  60,7
+ 9 29  MUSIOL - SOVA - FERLIC - POLASCHEGG             4H    O   =  KB     -420    11,0 17,0   39,3  60,7
+36 13  SVANDA - SVANDA - LINDENLAUF - PROPST           4H    O   =  KB     -420    11,0 17,0   39,3  60,7
+32 11  ILLNER - KERN - KAUTZKY - KNOB                  4H    O  +1  K3     -450     0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+19     9542          
+Süd    AD            
+O-W    8643          
+       D74           
+D76           AB8    
+B109752       864    
+AKB           105    
+5             AB963  
+       K103          
+       K3            
+       D972          
+       K1082         
+
+4H W -620            
+       T  K  H  P  N
+NS     6  7  3  6  5 
+O      7  6 10  7  8 
+W      :  :  :  :  7 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 1 27  FISCHER - LAZAR - ROUPEC - KUBAK                2H    W  +2  P4     -170    18,0 10,0   64,3  35,7
+ 2 29  MYSKIW - ROHOWSKY - FERLIC - POLASCHEGG         3H    W  +1  P9     -170    18,0 10,0   64,3  35,7
+ 3 32  DOUTLIK - REMMEL - ILLNER - KERN                3H    W  +1  P4     -170    18,0 10,0   64,3  35,7
+ 4 34  ARTMER - SIMON - DAICHENDT - HACKL              3H    W  +1  P4     -170    18,0 10,0   64,3  35,7
+ 5 36  KREUTZER - BABSCH - SVANDA - SVANDA             3H    W  +1  T4     -170    18,0 10,0   64,3  35,7
+ 6 22  BABSCH - SPIEß - HENSLER - SCHÜLLER             3H    W  +1  K6     -170    18,0 10,0   64,3  35,7
+ 7 24  GRÜMM - TRAMPISCH - THOMASBERGER - WIEDMANN     3H    W  +1  P5     -170    18,0 10,0   64,3  35,7
+ 9 28  MUSIOL - SOVA - STREICHER - BROJER              3H    O  +1  T3     -170    18,0 10,0   64,3  35,7
+10 30  HERMANN - TSIOKRIS - CHARKOW - WEINBERGER       2H    W  +2  K6     -170    18,0 10,0   64,3  35,7
+16 25  DE DEKEN - DE DEKEN - GYIMESI - ZUPANCIC        3H    W  +1  P5     -170    18,0 10,0   64,3  35,7
+33 12  KERBL - HORNISCHER - WASSER - ARTMER            2H    W  +2  P4     -170    18,0 10,0   64,3  35,7
+35 13  ALLAF - PENDL - LINDENLAUF - PROPST             4Kx   S  -3  HB     -500     6,0 22,0   21,4  78,6
+ 8 26  PETZELBAUER - KORBEL - BACHMAIER - REITER       4H    W   =  P7     -620     2,0 26,0    7,1  92,9
+21 14  TERRANEO - SAURER - GUJA - SCHWAB               4H    W   =  K4     -620     2,0 26,0    7,1  92,9
+23 15  SUMMER - PAESOLD - ZOLLE - FINZ                 4H    W   =  K4     -620     2,0 26,0    7,1  92,9
+
+
+
+-------------------------------------------------------------------------------------------------------------
+20     KB1098        
+West   109           
+Alle   B54           
+       432           
+3             2      
+D543          KB86   
+AK863         D1097  
+K65           AB109  
+       AD7654        
+       A72           
+       2             
+       D87           
+
+5K W -600            
+       T  K  H  P  N
+NS     1  1  2  8  4 
+OW    11 11 10  5  6 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+23 15  SUMMER - PAESOLD - ZOLLE - FINZ                 3P    S  -1  H3     -100    28,0  0,0  100,0   0,0
+ 6 22  BABSCH - SPIEß - HENSLER - SCHÜLLER             4K    W   =  PK     -130    26,0  2,0   92,9   7,1
+ 1 27  FISCHER - LAZAR - ROUPEC - KUBAK                4Px   S  -2  KA     -500    17,0 11,0   60,7  39,3
+ 2 29  MYSKIW - ROHOWSKY - FERLIC - POLASCHEGG         4Px   S  -2  KA     -500    17,0 11,0   60,7  39,3
+ 3 32  DOUTLIK - REMMEL - ILLNER - KERN                4Px   S  -2  KA     -500    17,0 11,0   60,7  39,3
+ 4 34  ARTMER - SIMON - DAICHENDT - HACKL              4Px   S  -2  KA     -500    17,0 11,0   60,7  39,3
+ 5 36  KREUTZER - BABSCH - SVANDA - SVANDA             4Px   N  -2  HK     -500    17,0 11,0   60,7  39,3
+21 14  TERRANEO - SAURER - GUJA - SCHWAB               4Px   S  -2  KA     -500    17,0 11,0   60,7  39,3
+33 12  KERBL - HORNISCHER - WASSER - ARTMER            4Px   S  -2  KA     -500    17,0 11,0   60,7  39,3
+35 13  ALLAF - PENDL - LINDENLAUF - PROPST             4Px   S  -2  KA     -500    17,0 11,0   60,7  39,3
+ 9 28  MUSIOL - SOVA - STREICHER - BROJER              4H    O   =  K6     -620     8,0 20,0   28,6  71,4
+ 8 26  PETZELBAUER - KORBEL - BACHMAIER - REITER       5H    O   =  PA     -650     5,0 23,0   17,9  82,1
+16 25  DE DEKEN - DE DEKEN - GYIMESI - ZUPANCIC        4H    W  +1  PB     -650     5,0 23,0   17,9  82,1
+10 30  HERMANN - TSIOKRIS - CHARKOW - WEINBERGER       4H    O  +2  K2     -680     2,0 26,0    7,1  92,9
+ 7 24  GRÜMM - TRAMPISCH - THOMASBERGER - WIEDMANN     5Hx   O   =  K2     -850     0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+21     B62           
+Nord   D5            
+N-S    K108          
+       AK742         
+K84           A7     
+A63           K987   
+B962          754    
+1098          D653   
+       D10953        
+       B1042         
+       AD3           
+       B             
+
+3P N 140             
+       T  K  H  P  N
+NS     7  7  7  9  8 
+OW     6  6  6  4  5 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 8 25  PETZELBAUER - KORBEL - GYIMESI - ZUPANCIC       3N    N   =  H7    600      28,0  0,0  100,0   0,0
+ 1 26  FISCHER - LAZAR - BACHMAIER - REITER            2P    S  +1  K6    140      17,0 11,0   60,7  39,3
+ 3 30  DOUTLIK - REMMEL - CHARKOW - WEINBERGER         2P    S  +1  P4    140      17,0 11,0   60,7  39,3
+ 4 33  ARTMER - SIMON - KERBL - HORNISCHER             2P    S  +1  P4    140      17,0 11,0   60,7  39,3
+ 5 35  KREUTZER - BABSCH - ALLAF - PENDL               3P    S   =  T10   140      17,0 11,0   60,7  39,3
+ 6 21  BABSCH - SPIEß - TERRANEO - SAURER              2P    S  +1  T10   140      17,0 11,0   60,7  39,3
+ 7 23  GRÜMM - TRAMPISCH - SUMMER - PAESOLD            2P    S  +1  P2    140      17,0 11,0   60,7  39,3
+ 9 27  MUSIOL - SOVA - ROUPEC - KUBAK                  2P    S  +1  T10   140      17,0 11,0   60,7  39,3
+10 29  HERMANN - TSIOKRIS - FERLIC - POLASCHEGG        2P    S  +1  K6    140      17,0 11,0   60,7  39,3
+22 15  HENSLER - SCHÜLLER - ZOLLE - FINZ               2P    S  +1  T10   140      17,0 11,0   60,7  39,3
+34 13  DAICHENDT - HACKL - LINDENLAUF - PROPST         2P    S  +1  T10   140      17,0 11,0   60,7  39,3
+ 2 28  MYSKIW - ROHOWSKY - STREICHER - BROJER          4P    S  -1  T10    -100     3,0 25,0   10,7  89,3
+11 31  KAUTZKY - KNOB - LEIFERT - WANHA                4P    S  -1  K6     -100     3,0 25,0   10,7  89,3
+24 16  THOMASBERGER - WIEDMANN - DE DEKEN - DE DEKEN   4P    S  -1  K2     -100     3,0 25,0   10,7  89,3
+36 14  SVANDA - SVANDA - GUJA - SCHWAB                 4P    N  -1  K6     -100     3,0 25,0   10,7  89,3
+
+
+
+-------------------------------------------------------------------------------------------------------------
+22     D8            
+Ost    D9874         
+O-W    AB96          
+       87            
+K            AB109432
+10653         B      
+D532          8      
+K1093         B652   
+       765           
+       AK2           
+       K1074         
+       AD4           
+
+4N S 430             
+       T  K  H  P  N
+N      5 10 10  3 10 
+S      : 11  :  :  : 
+OW     8  2  2  9  3 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 1 26  FISCHER - LAZAR - BACHMAIER - REITER            4H    N  +1  K2    450      24,7  3,3   88,3  11,7
+ 2 28  MYSKIW - ROHOWSKY - STREICHER - BROJER          4H    N  +1  PA    450      24,7  3,3   88,3  11,7
+ 4 33  ARTMER - SIMON - KERBL - HORNISCHER             4H    N  +1  K8    450      24,7  3,3   88,3  11,7
+10 29  HERMANN - TSIOKRIS - FERLIC - POLASCHEGG        4H    N  +1  K8    450      24,7  3,3   88,3  11,7
+ 3 30  DOUTLIK - REMMEL - CHARKOW - WEINBERGER         4H    N   =  K8    420      15,1 12,9   53,8  46,2
+ 5 35  KREUTZER - BABSCH - ALLAF - PENDL               4H    N   =  K2    420      15,1 12,9   53,8  46,2
+ 6 21  BABSCH - SPIEß - TERRANEO - SAURER              4H    N   =  K8    420      15,1 12,9   53,8  46,2
+ 7 23  GRÜMM - TRAMPISCH - SUMMER - PAESOLD            4H    N   =  K8    420      15,1 12,9   53,8  46,2
+24 16  THOMASBERGER - WIEDMANN - DE DEKEN - DE DEKEN   4H    S   =  PK    420      15,1 12,9   53,8  46,2
+ 8 25  PETZELBAUER - KORBEL - GYIMESI - ZUPANCIC       4H    S  -1  P7      -50     8,6 19,4   30,9  69,1
+11 31  KAUTZKY - KNOB - LEIFERT - WANHA                3P    O  +1  HA     -170     3,3 24,7   11,7  88,3
+22 15  HENSLER - SCHÜLLER - ZOLLE - FINZ               3P    O  +1  HA     -170     3,3 24,7   11,7  88,3
+34 13  DAICHENDT - HACKL - LINDENLAUF - PROPST         3P    O  +1  HA     -170     3,3 24,7   11,7  88,3
+36 14  SVANDA - SVANDA - GUJA - SCHWAB                 3P    O  +1  HA     -170     3,3 24,7   11,7  88,3
+ 9 27  MUSIOL - SOVA - ROUPEC - KUBAK                                      A-/A+   11,2 16,8   40,0  60,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+23     AK92          
+Süd    53            
+Alle   973           
+       K872          
+76            D10843 
+AB6           987    
+AD104         KB8    
+A1063         B5     
+       B5            
+       KD1042        
+       652           
+       D94           
+
+2N W -120            
+       T  K  H  P  N
+NS     6  4  6  4  5 
+OW     7  8  7  8  8 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 4 31  ARTMER - SIMON - LEIFERT - WANHA                2P    W  -1  H5    100      24,0  4,0   85,7  14,3
+ 5 34  KREUTZER - BABSCH - DAICHENDT - HACKL           2P    W  -1  H5    100      24,0  4,0   85,7  14,3
+23 16  SUMMER - PAESOLD - DE DEKEN - DE DEKEN          2P    W  -1  T2    100      24,0  4,0   85,7  14,3
+25  1  GYIMESI - ZUPANCIC - FISCHER - LAZAR            2P    W  -1  T2    100      24,0  4,0   85,7  14,3
+35 14  ALLAF - PENDL - GUJA - SCHWAB                   2P    W  -1  H5    100      24,0  4,0   85,7  14,3
+ 6 36  BABSCH - SPIEß - SVANDA - SVANDA                2T    W   =  T7      -90    18,0 10,0   64,3  35,7
+ 2 27  MYSKIW - ROHOWSKY - ROUPEC - KUBAK              2P    W   =  H5     -110    11,0 17,0   39,3  60,7
+ 3 29  DOUTLIK - REMMEL - FERLIC - POLASCHEGG          2P    W   =  H5     -110    11,0 17,0   39,3  60,7
+ 7 22  GRÜMM - TRAMPISCH - HENSLER - SCHÜLLER          2P    W   =  H5     -110    11,0 17,0   39,3  60,7
+ 9 26  MUSIOL - SOVA - BACHMAIER - REITER              2P    O   =  H5     -110    11,0 17,0   39,3  60,7
+11 30  KAUTZKY - KNOB - CHARKOW - WEINBERGER           2P    W   =  H5     -110    11,0 17,0   39,3  60,7
+12 32  WASSER - ARTMER - ILLNER - KERN                 2P    W   =  H5     -110    11,0 17,0   39,3  60,7
+10 28  HERMANN - TSIOKRIS - STREICHER - BROJER         2N    W   =  H2     -120     4,0 24,0   14,3  85,7
+ 8 24  PETZELBAUER - KORBEL - THOMASBERGER - WIEDMANN  2P    W  +1  H7     -140     1,0 27,0    3,6  96,4
+21 15  TERRANEO - SAURER - ZOLLE - FINZ                2P    W  +1  H5     -140     1,0 27,0    3,6  96,4
+
+
+
+-------------------------------------------------------------------------------------------------------------
+24     B108732       
+West   43            
+Keine  B82           
+       B7            
+54            D6     
+AD98          KB762  
+10976         D53    
+A62           K103   
+       AK9           
+       105           
+       AK4           
+       D9854         
+
+3P N 140             
+       T  K  H  P  N
+NS     8  5  5  9  6 
+O      5  8  8  4  5 
+W      4  7  :  :  : 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 6 36  BABSCH - SPIEß - SVANDA - SVANDA                4P    N  +1  T3    450      28,0  0,0  100,0   0,0
+ 7 22  GRÜMM - TRAMPISCH - HENSLER - SCHÜLLER          2P    S  +1  HA    140      25,0  3,0   89,3  10,7
+23 16  SUMMER - PAESOLD - DE DEKEN - DE DEKEN          2P    S  +1  HA    140      25,0  3,0   89,3  10,7
+35 14  ALLAF - PENDL - GUJA - SCHWAB                   4Hx   O  -1  KA    100      22,0  6,0   78,6  21,4
+ 5 34  KREUTZER - BABSCH - DAICHENDT - HACKL           4H    O  -1  KA    50       20,0  8,0   71,4  28,6
+ 3 29  DOUTLIK - REMMEL - FERLIC - POLASCHEGG          4P    S  -1  P5      -50    14,0 14,0   50,0  50,0
+ 9 26  MUSIOL - SOVA - BACHMAIER - REITER              4P    N  -1  H2      -50    14,0 14,0   50,0  50,0
+12 32  WASSER - ARTMER - ILLNER - KERN                 3P    N  -1  H2      -50    14,0 14,0   50,0  50,0
+21 15  TERRANEO - SAURER - ZOLLE - FINZ                4P    N  -1  H2      -50    14,0 14,0   50,0  50,0
+25  1  GYIMESI - ZUPANCIC - FISCHER - LAZAR            3P    N  -1  H3      -50    14,0 14,0   50,0  50,0
+11 30  KAUTZKY - KNOB - CHARKOW - WEINBERGER           2H    O   =  PA     -110     8,0 20,0   28,6  71,4
+ 2 27  MYSKIW - ROHOWSKY - ROUPEC - KUBAK              3H    O   =  KA     -140     3,0 25,0   10,7  89,3
+ 4 31  ARTMER - SIMON - LEIFERT - WANHA                3H    O   =  PA     -140     3,0 25,0   10,7  89,3
+ 8 24  PETZELBAUER - KORBEL - THOMASBERGER - WIEDMANN  3H    O   =  K7     -140     3,0 25,0   10,7  89,3
+10 28  HERMANN - TSIOKRIS - STREICHER - BROJER         3H    O   =  PA     -140     3,0 25,0   10,7  89,3
+
+
+
+-------------------------------------------------------------------------------------------------------------
+25     KB2           
+Nord   32            
+O-W    D95           
+       K10974        
+A9643         108    
+K9            DB10654
+62            AK10   
+AD62          53     
+       D75           
+       A87           
+       B8743         
+       B8            
+
+4H O -620            
+       T  K  H  P  N
+NS     5  7  3  5  4 
+O      6  5 10  7  9 
+W      7  6  :  :  : 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 6 35  BABSCH - SPIEß - ALLAF - PENDL                  5H    O  -2  TB    200      28,0  0,0  100,0   0,0
+26  2  BACHMAIER - REITER - MYSKIW - ROHOWSKY          2H    O  +1  K7     -140    26,0  2,0   92,9   7,1
+ 3 28  DOUTLIK - REMMEL - STREICHER - BROJER           3H    O  +1  K3     -170    19,0  9,0   67,9  32,1
+ 5 32  KREUTZER - BABSCH - ILLNER - KERN               2H    W  +2  K5     -170    19,0  9,0   67,9  32,1
+ 7 21  GRÜMM - TRAMPISCH - TERRANEO - SAURER           2H    O  +2  K3     -170    19,0  9,0   67,9  32,1
+ 8 23  PETZELBAUER - KORBEL - SUMMER - PAESOLD         2H    W  +2  T7     -170    19,0  9,0   67,9  32,1
+13 33  LINDENLAUF - PROPST - KERBL - HORNISCHER        2H    O  +2  K3     -170    19,0  9,0   67,9  32,1
+22 16  HENSLER - SCHÜLLER - DE DEKEN - DE DEKEN        2H    O  +2  K7     -170    19,0  9,0   67,9  32,1
+ 4 30  ARTMER - SIMON - CHARKOW - WEINBERGER           4H    O   =  K3     -620     8,0 20,0   28,6  71,4
+ 9 25  MUSIOL - SOVA - GYIMESI - ZUPANCIC              4H    W   =  T2     -620     8,0 20,0   28,6  71,4
+10 27  HERMANN - TSIOKRIS - ROUPEC - KUBAK             4H    W   =  T10    -620     8,0 20,0   28,6  71,4
+24  1  THOMASBERGER - WIEDMANN - FISCHER - LAZAR       4H    O   =  TB     -620     8,0 20,0   28,6  71,4
+36 15  SVANDA - SVANDA - ZOLLE - FINZ                  4H    O   =  TB     -620     8,0 20,0   28,6  71,4
+12 31  WASSER - ARTMER - LEIFERT - WANHA               3N    O  +1  K4     -630     2,0 26,0    7,1  92,9
+11 29  KAUTZKY - KNOB - FERLIC - POLASCHEGG            3N    W  +2  T10    -660     0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+26     D52           
+Ost    AK98          
+Alle   D65           
+       KB7           
+B63           A10984 
+D1054         7632   
+AK1072        B983   
+D             ---    
+       K7            
+       B             
+       4             
+       A109865432    
+
+4N S 630             
+       T  K  H  P  N
+NS    11  4  6  5 10 
+OW     1  8  7  8  1 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 3 28  DOUTLIK - REMMEL - STREICHER - BROJER           6T    S   =  KA   1370      25,0  3,0   89,3  10,7
+ 6 35  BABSCH - SPIEß - ALLAF - PENDL                  6T    S   =  KA   1370      25,0  3,0   89,3  10,7
+ 7 21  GRÜMM - TRAMPISCH - TERRANEO - SAURER           6T    S   =  KA   1370      25,0  3,0   89,3  10,7
+24  1  THOMASBERGER - WIEDMANN - FISCHER - LAZAR       6T    S   =  KA   1370      25,0  3,0   89,3  10,7
+ 8 23  PETZELBAUER - KORBEL - SUMMER - PAESOLD         5Px   O  -4  TA   1100      20,0  8,0   71,4  28,6
+ 9 25  MUSIOL - SOVA - GYIMESI - ZUPANCIC              5Txx  S   =  KA   1000      18,0 10,0   64,3  35,7
+26  2  BACHMAIER - REITER - MYSKIW - ROHOWSKY          3N    N  +2  KB    660      16,0 12,0   57,1  42,9
+11 29  KAUTZKY - KNOB - FERLIC - POLASCHEGG            5T    S  +1  KA    620      12,0 16,0   42,9  57,1
+12 31  WASSER - ARTMER - LEIFERT - WANHA               5T    S  +1  KA    620      12,0 16,0   42,9  57,1
+22 16  HENSLER - SCHÜLLER - DE DEKEN - DE DEKEN        5T    S  +1  KA    620      12,0 16,0   42,9  57,1
+10 27  HERMANN - TSIOKRIS - ROUPEC - KUBAK             5T    S   =  KA    600       6,0 22,0   21,4  78,6
+13 33  LINDENLAUF - PROPST - KERBL - HORNISCHER        5T    S   =  KA    600       6,0 22,0   21,4  78,6
+36 15  SVANDA - SVANDA - ZOLLE - FINZ                  5T    S   =  KA    600       6,0 22,0   21,4  78,6
+ 4 30  ARTMER - SIMON - CHARKOW - WEINBERGER           4T    S  +1  KA    150       2,0 26,0    7,1  92,9
+ 5 32  KREUTZER - BABSCH - ILLNER - KERN               6T    S  -1  KA     -100     0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+27     9864          
+Süd    D107          
+Keine  K9            
+       DB109         
+D1075         32     
+B92           A843   
+D62           A10753 
+764           A5     
+       AKB           
+       K65           
+       B84           
+       K832          
+
+2T S 90              
+       T  K  H  P  N
+NS     8  6  7  7  7 
+OW     5  7  6  6  5 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 4 29  ARTMER - SIMON - FERLIC - POLASCHEGG            2Kx   O  -2  PA    300      28,0  0,0  100,0   0,0
+ 7 36  GRÜMM - TRAMPISCH - SVANDA - SVANDA             2N    S  +2  P5    180      25,0  3,0   89,3  10,7
+25  2  GYIMESI - ZUPANCIC - MYSKIW - ROHOWSKY          2N    S  +2  P7    180      25,0  3,0   89,3  10,7
+11 28  KAUTZKY - KNOB - STREICHER - BROJER             2N    S   =  P5    120      19,0  9,0   67,9  32,1
+12 30  WASSER - ARTMER - CHARKOW - WEINBERGER          2N    S   =  P7    120      19,0  9,0   67,9  32,1
+13 32  LINDENLAUF - PROPST - ILLNER - KERN             1N    S  +1  P5    120      19,0  9,0   67,9  32,1
+21 16  TERRANEO - SAURER - DE DEKEN - DE DEKEN         2N    S   =  P5    120      19,0  9,0   67,9  32,1
+ 5 31  KREUTZER - BABSCH - LEIFERT - WANHA             2P    N   =  TA    110      13,0 15,0   46,4  53,6
+27  3  ROUPEC - KUBAK - DOUTLIK - REMMEL               3T    N   =  P3    110      13,0 15,0   46,4  53,6
+ 6 33  BABSCH - SPIEß - KERBL - HORNISCHER             2N    S  -1  P7      -50     7,0 21,0   25,0  75,0
+ 8 22  PETZELBAUER - KORBEL - HENSLER - SCHÜLLER       2N    S  -1  H7      -50     7,0 21,0   25,0  75,0
+10 26  HERMANN - TSIOKRIS - BACHMAIER - REITER         4T    N  -1  P2      -50     7,0 21,0   25,0  75,0
+14 34  GUJA - SCHWAB - DAICHENDT - HACKL               2N    S  -1  K2      -50     7,0 21,0   25,0  75,0
+ 9 24  MUSIOL - SOVA - THOMASBERGER - WIEDMANN         2N    S  -2  P5     -100     1,0 27,0    3,6  96,4
+23  1  SUMMER - PAESOLD - FISCHER - LAZAR              3N    S  -2  K2     -100     1,0 27,0    3,6  96,4
+
+
+
+-------------------------------------------------------------------------------------------------------------
+28     5             
+West   K532          
+N-S    B32           
+       D10972        
+94           AB108762
+A7            D10    
+D87654        A      
+543           AB8    
+       KD3           
+       B9864         
+       K109          
+       K6            
+
+2P W -110            
+       T  K  H  P  N
+NS     7  6  8  5  6 
+O      5  7  4  8  4 
+W      :  :  5  :  5 
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+11 28  KAUTZKY - KNOB - STREICHER - BROJER             4Px   O  -2  H4    300      28,0  0,0  100,0   0,0
+ 4 29  ARTMER - SIMON - FERLIC - POLASCHEGG            4P    O  -2  H4    100      24,0  4,0   85,7  14,3
+10 26  HERMANN - TSIOKRIS - BACHMAIER - REITER         4P    O  -2  H6    100      24,0  4,0   85,7  14,3
+12 30  WASSER - ARTMER - CHARKOW - WEINBERGER          4P    O  -2  H4    100      24,0  4,0   85,7  14,3
+ 8 22  PETZELBAUER - KORBEL - HENSLER - SCHÜLLER       3P    O  -1  H7    50       17,0 11,0   60,7  39,3
+13 32  LINDENLAUF - PROPST - ILLNER - KERN             3P    O  -1  H4    50       17,0 11,0   60,7  39,3
+23  1  SUMMER - PAESOLD - FISCHER - LAZAR              4P    O  -1  H4    50       17,0 11,0   60,7  39,3
+27  3  ROUPEC - KUBAK - DOUTLIK - REMMEL               3P    O  -1  H4    50       17,0 11,0   60,7  39,3
+ 5 31  KREUTZER - BABSCH - LEIFERT - WANHA             2P    O   =  H4     -110     9,0 19,0   32,1  67,9
+ 7 36  GRÜMM - TRAMPISCH - SVANDA - SVANDA             1P    O  +1  H4     -110     9,0 19,0   32,1  67,9
+ 9 24  MUSIOL - SOVA - THOMASBERGER - WIEDMANN         1P    O  +1  H4     -110     9,0 19,0   32,1  67,9
+21 16  TERRANEO - SAURER - DE DEKEN - DE DEKEN         2P    O   =  H9     -110     9,0 19,0   32,1  67,9
+ 6 33  BABSCH - SPIEß - KERBL - HORNISCHER             2P    O  +1  H4     -140     2,0 26,0    7,1  92,9
+14 34  GUJA - SCHWAB - DAICHENDT - HACKL               3P    O   =  H4     -140     2,0 26,0    7,1  92,9
+25  2  GYIMESI - ZUPANCIC - MYSKIW - ROHOWSKY          3P    O   =  TK     -140     2,0 26,0    7,1  92,9
+
+
+
+-------------------------------------------------------------------------------------------------------------
+29     K9862         
+Nord   87            
+Alle   1095          
+       D53           
+B10543        AD7    
+B542          AKD10  
+AK6           B832   
+6             A4     
+       ---           
+       963           
+       D74           
+       KB109872      
+
+6H O -1430           
+       T  K  H  P  N
+N      7  1  1  3  2 
+S      :  :  :  2  : 
+O      6 12 12 10 11 
+W      :  : 11  :  : 
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+13 31  LINDENLAUF - PROPST - LEIFERT - WANHA           5P    W  -1  T3    100      28,0  0,0  100,0   0,0
+ 5 30  KREUTZER - BABSCH - CHARKOW - WEINBERGER        4P    O   =  TB     -620    23,0  5,0   82,1  17,9
+ 8 21  PETZELBAUER - KORBEL - TERRANEO - SAURER        4P    O   =  H7     -620    23,0  5,0   82,1  17,9
+ 9 23  MUSIOL - SOVA - SUMMER - PAESOLD                4P    W   =  T3     -620    23,0  5,0   82,1  17,9
+24  2  THOMASBERGER - WIEDMANN - MYSKIW - ROHOWSKY     4P    O   =  K4     -620    23,0  5,0   82,1  17,9
+12 29  WASSER - ARTMER - FERLIC - POLASCHEGG           3N    O  +1  TB     -630    18,0 10,0   64,3  35,7
+26  3  BACHMAIER - REITER - DOUTLIK - REMMEL           4H    O  +1  T9     -650    16,0 12,0   57,1  42,9
+10 25  HERMANN - TSIOKRIS - GYIMESI - ZUPANCIC         4H    O  +2  K2     -680    12,0 16,0   42,9  57,1
+11 27  KAUTZKY - KNOB - ROUPEC - KUBAK                 4H    W  +2  K10    -680    12,0 16,0   42,9  57,1
+22  1  HENSLER - SCHÜLLER - FISCHER - LAZAR            4H    O  +2  TB     -680    12,0 16,0   42,9  57,1
+ 6 32  BABSCH - SPIEß - ILLNER - KERN                  4H    O  +3  TB     -710     8,0 20,0   28,6  71,4
+ 7 34  GRÜMM - TRAMPISCH - DAICHENDT - HACKL           6H    O   =  H3     -1430    3,0 25,0   10,7  89,3
+14 33  GUJA - SCHWAB - KERBL - HORNISCHER              6H    O   =  K4     -1430    3,0 25,0   10,7  89,3
+15 35  ZOLLE - FINZ - ALLAF - PENDL                    6H    O   =  H9     -1430    3,0 25,0   10,7  89,3
+28  4  STREICHER - BROJER - ARTMER - SIMON             6H    O   =  TK     -1430    3,0 25,0   10,7  89,3
+
+
+
+-------------------------------------------------------------------------------------------------------------
+30     94            
+Ost    DB752         
+Keine  AB104         
+       84            
+AD87          KB632  
+AK8           106    
+75            D9     
+KDB9          A1062  
+       105           
+       943           
+       K8632         
+       753           
+
+5P O -450            
+       T  K  H  P  N
+NS     1  6  7  2  2 
+OW    11  6  6 11  8 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+24  2  THOMASBERGER - WIEDMANN - MYSKIW - ROHOWSKY     4N    W  -2  K10   100      28,0  0,0  100,0   0,0
+ 5 30  KREUTZER - BABSCH - CHARKOW - WEINBERGER        6P    O  -1  H3    50       25,0  3,0   89,3  10,7
+13 31  LINDENLAUF - PROPST - LEIFERT - WANHA           6P    O  -1  H3    50       25,0  3,0   89,3  10,7
+ 6 32  BABSCH - SPIEß - ILLNER - KERN                  4P    W  +1  H3     -450    12,0 16,0   42,9  57,1
+ 7 34  GRÜMM - TRAMPISCH - DAICHENDT - HACKL           4P    O  +1  H3     -450    12,0 16,0   42,9  57,1
+ 8 21  PETZELBAUER - KORBEL - TERRANEO - SAURER        4P    W  +1  H7     -450    12,0 16,0   42,9  57,1
+ 9 23  MUSIOL - SOVA - SUMMER - PAESOLD                4P    O  +1  H3     -450    12,0 16,0   42,9  57,1
+10 25  HERMANN - TSIOKRIS - GYIMESI - ZUPANCIC         4P    O  +1  K2     -450    12,0 16,0   42,9  57,1
+11 27  KAUTZKY - KNOB - ROUPEC - KUBAK                 4P    O  +1  K2     -450    12,0 16,0   42,9  57,1
+12 29  WASSER - ARTMER - FERLIC - POLASCHEGG           4P    O  +1  H3     -450    12,0 16,0   42,9  57,1
+14 33  GUJA - SCHWAB - KERBL - HORNISCHER              4P    O  +1  P10    -450    12,0 16,0   42,9  57,1
+15 35  ZOLLE - FINZ - ALLAF - PENDL                    4P    O  +1  H9     -450    12,0 16,0   42,9  57,1
+26  3  BACHMAIER - REITER - DOUTLIK - REMMEL           4P    O  +1  H3     -450    12,0 16,0   42,9  57,1
+28  4  STREICHER - BROJER - ARTMER - SIMON             4P    O  +1  K2     -450    12,0 16,0   42,9  57,1
+22  1  HENSLER - SCHÜLLER - FISCHER - LAZAR            4P    W  +2  H2     -480     0,0 28,0    0,0 100,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+31     D5            
+Süd    AD10973       
+N-S    KDB3          
+       B             
+KB109732      A86    
+64            ---    
+74            A109862
+A4            8732   
+       4             
+       KB852         
+       5             
+       KD10965       
+
+5P W -450            
+       T  K  H  P  N
+NS     8  2 10  1  4 
+OW     5  9  3 11  7 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+ 8 35  PETZELBAUER - KORBEL - ALLAF - PENDL            5Hx   N   =  T7    850      27,9  0,1   99,7   0,3
+ 9 22  MUSIOL - SOVA - HENSLER - SCHÜLLER              4H    S  +1  K7    650      25,8  2,2   92,1   7,9
+27  4  ROUPEC - KUBAK - ARTMER - SIMON                 6Px   W  -2  TB    300      23,6  4,4   84,4  15,6
+10 24  HERMANN - TSIOKRIS - THOMASBERGER - WIEDMANN    5Px   W  -1  TB    100      19,4  8,6   69,1  30,9
+14 32  GUJA - SCHWAB - ILLNER - KERN                   5Px   W  -1  TB    100      19,4  8,6   69,1  30,9
+25  3  GYIMESI - ZUPANCIC - DOUTLIK - REMMEL           5Px   W  -1  KK    100      19,4  8,6   69,1  30,9
+ 6 31  BABSCH - SPIEß - LEIFERT - WANHA                6P    W  -1  KK    50       15,1 12,9   53,8  46,2
+ 7 33  GRÜMM - TRAMPISCH - KERBL - HORNISCHER          5H    N  -1  PA     -100    10,8 17,2   38,5  61,5
+12 28  WASSER - ARTMER - STREICHER - BROJER            5H    S  -1  P9     -100    10,8 17,2   38,5  61,5
+16 36  DE DEKEN - DE DEKEN - SVANDA - SVANDA           5H    N  -1  PA     -100    10,8 17,2   38,5  61,5
+13 30  LINDENLAUF - PROPST - CHARKOW - WEINBERGER      6H    N  -2  PA     -200     5,4 22,6   19,4  80,6
+29  5  FERLIC - POLASCHEGG - KREUTZER - BABSCH         6H    N  -2  PA     -200     5,4 22,6   19,4  80,6
+11 26  KAUTZKY - KNOB - BACHMAIER - REITER             6Hx   N  -2  PA     -500     2,2 25,8    7,9  92,1
+23  2  SUMMER - PAESOLD - MYSKIW - ROHOWSKY            5Px   W   =  TB     -650     0,1 27,9    0,3  99,7
+15 34  ZOLLE - FINZ - DAICHENDT - HACKL                                    A-/A+   11,2 16,8   40,0  60,0
+
+
+
+-------------------------------------------------------------------------------------------------------------
+32     83            
+West   KB74          
+O-W    B97           
+       B974          
+10754         KD62   
+A3            D1092  
+AD84          10652  
+K63           8      
+       AB9           
+       865           
+       K3            
+       AD1052        
+
+2Nx N -100           
+       T  K  H  P  N
+NS     7  5  6  5  7 
+OW     5  8  7  8  6 
+
+
+
+
+ Paar   N-S/O-W                                        Kont         Aus  Ergebnis    Punkte         %     
+25  3  GYIMESI - ZUPANCIC - DOUTLIK - REMMEL           4Px   O  -2  TA    500      28,0  0,0  100,0   0,0
+ 8 35  PETZELBAUER - KORBEL - ALLAF - PENDL            4P    W  -2  T7    200      26,0  2,0   92,9   7,1
+ 7 33  GRÜMM - TRAMPISCH - KERBL - HORNISCHER          3K    W  -1  T7    100      19,0  9,0   67,9  32,1
+11 26  KAUTZKY - KNOB - BACHMAIER - REITER             3K    W  -1  T7    100      19,0  9,0   67,9  32,1
+14 32  GUJA - SCHWAB - ILLNER - KERN                   3P    W  -1  T7    100      19,0  9,0   67,9  32,1
+16 36  DE DEKEN - DE DEKEN - SVANDA - SVANDA           2N    W  -1  T4    100      19,0  9,0   67,9  32,1
+27  4  ROUPEC - KUBAK - ARTMER - SIMON                 3K    W  -1  T7    100      19,0  9,0   67,9  32,1
+29  5  FERLIC - POLASCHEGG - KREUTZER - BABSCH         3K    W  -1  TB    100      19,0  9,0   67,9  32,1
+15 34  ZOLLE - FINZ - DAICHENDT - HACKL                3T    S  -1  HA      -50    12,0 16,0   42,9  57,1
+ 6 31  BABSCH - SPIEß - LEIFERT - WANHA                3T    S  -2  HA     -100    10,0 18,0   35,7  64,3
+ 9 22  MUSIOL - SOVA - HENSLER - SCHÜLLER              2P    O   =  H5     -110     4,0 24,0   14,3  85,7
+10 24  HERMANN - TSIOKRIS - THOMASBERGER - WIEDMANN    3K    W   =  T2     -110     4,0 24,0   14,3  85,7
+12 28  WASSER - ARTMER - STREICHER - BROJER            2P    W   =  T4     -110     4,0 24,0   14,3  85,7
+13 30  LINDENLAUF - PROPST - CHARKOW - WEINBERGER      2P    W   =  T7     -110     4,0 24,0   14,3  85,7
+23  2  SUMMER - PAESOLD - MYSKIW - ROHOWSKY            3K    W   =  T7     -110     4,0 24,0   14,3  85,7
+Einzelresultate
