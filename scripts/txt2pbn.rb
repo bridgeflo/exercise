@@ -1,9 +1,9 @@
 # ******************************************************************************** 
-# htm2pbn.rb
+# txt2pbn.rb
 #                                                                                  
 # ******************************************************************************** -->
 unless ARGV.length == 1 
-  puts "Usage: htm2pbn.rb datei"
+  puts "Usage: txt2pbn.rb datei"
   exit
 end
 class Pbn
@@ -40,9 +40,9 @@ class Pbn
         end
     end
     def setEvent(event,site,date)
-        @event=event
-        @site=site
-        @date=date
+        @event = event
+        @site = site
+        @date = date
     end
     def austeilung(north,east,south,west)
         @deal = "\"N:"
@@ -129,20 +129,22 @@ if $0 == __FILE__
     entry = Array.new
     datei = File.open(dat)
     datei.each do  |line|   
-        if line =~/<title>(\d{4})-(\d{2})-(\d{2}).*&nbsp;(.*)<\/title>/
+        if line =~ /^(\d{4})-(\d{2})-(\d{2})\s{2}(.*)/
             @date = "#{$1}.#{$2}.#{$3}"
             @event = "#{$4}"
-            @site = "Loiben"
+            @site = ""
         end
         # start=true if line =~/<a name=\"scoretables\">/
         start=true if line =~/--------/
         start=false if start and line=~/^\s*$/
         if start then
             if line =~ /-----------------/ then
-                board += 1
                 @p = Pbn.new(board)
-                entry << @p
-                l=0
+                if board > 0 then
+                  entry << @p
+                end
+                board += 1
+                l = 0
             else
                 if entry.length > 0 then
                     l+=1
@@ -186,6 +188,7 @@ if $0 == __FILE__
                     elsif l==12 then
                         s_c = line.split().pop
                         @south+=s_c
+                        @p.setEvent(@event, @site, @date)
                         @p.setBoardInfo(@nr,@dealer,@vul)
                         @p.austeilung(@north,@east,@south,@west)
                     end
