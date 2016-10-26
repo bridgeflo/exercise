@@ -121,9 +121,8 @@ end
 
 if $0 == __FILE__ 
     dat = ARGV[0]
-    start=false
     # scores_table=false
-    # scores_pair=false
+    scores_pair = false
     board = 0
     l = 0
     entry = Array.new
@@ -134,10 +133,6 @@ if $0 == __FILE__
             @event = "#{$4}"
             @site = ""
         end
-        # start=true if line =~/<a name=\"scoretables\">/
-        start=true if line =~/--------/
-        start=false if start and line=~/^\s*$/
-        if start then
             if line =~ /-----------------/ then
                 @p = Pbn.new(board)
                 if board > 0 then
@@ -194,19 +189,19 @@ if $0 == __FILE__
                     end
                 end
             end
-        end
         # scores_table=false if scores_table and (line =~ /^\s+/ or line=~/<\/a>/)
         # if scores_table then
          #    @p.addTableScoreLine(line)
         # end
         # scores_table=true if line =~ /^Tisch/
         
-        # scores_pair=false if scores_pair and (line =~ /^\s+$/ or line=~/<\/a>/)
-        # if scores_pair then
-        #     @p.addPairScoreLine(line)
-        # end
-        # scores_pair=true if line =~ /^\s+Paar/
-        
+        scores_pair = false if scores_pair and (line =~ /^\s+$/)
+        if scores_pair then
+           if line =~ /^\d/ then
+             @p.addPairScoreLine(line)
+           end
+        end
+        scores_pair = true if line =~ /^\s+Paar/
     end
     entry.each do |pbn|
         puts pbn

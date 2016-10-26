@@ -111,11 +111,22 @@ class ContractTable
 					# puts $1,$2 if line.scan(/<td align=left>&nbsp;(.*)&nbsp;([0-9AKDB]+)<\/td>/)			
 					pos = $1 if line.scan(/<td align=right>(.*):<\/td>/)			
 					contract = $1 if line.scan(/<td align=left>(.*)<\/td><td align=left>/)
-					if contract =~ /(\d+)\s+<font color=\#[0-9abcdef]+>\&\#(\d+);<\/font>\s+(.*)/ then
+					if contract =~ /(\d+)\s+<font\s*color=\#[0-9abcdef]+>\&\#(\d+);<\/font>\s+(.*)/ then
 						denom = $1
 						suit = $2
 						result = $3
+						suit = "C" if suit == "9827"
+						suit = "D" if suit == "9830"
 						suit = "H" if suit == "9829"
+						suit = "S" if suit == "9824"
+					elsif contract =~ /(\d+)\s+<font\s*color=\#[0-9abcdef]+>\&\#(\d+);\s+(.*)/ then
+						denom = $1
+						suit = $2
+						result = $3
+						suit = "C" if suit == "9827"
+						suit = "D" if suit == "9830"
+						suit = "H" if suit == "9829"
+						suit = "S" if suit == "9824"
 					else
 						denom,suit,result = contract.split(' ')
 						suit = 'NT' if suit == 'SA'
