@@ -12,7 +12,7 @@ def scrape_deals(html)
   one_element_matches = %r{<td.*?>[0-9AKDB-]+</td>}m
 
   html_list = html[whole_list_matches]
-  suit=html_list.scan(one_element_matches).collect do | item |
+  html_list.scan(one_element_matches).collect do | item |
     /<td.*?>([0-9AKDB-]+)<\/td>/.match(item)[1].gsub("D",'Q').gsub("B",'J').gsub("10",'T').gsub("-",'')
   end
 end
@@ -30,13 +30,33 @@ class PbnDeal
         dat =~/^#{pattern}(\d+)\.html/
         @brd = $1
     end
+    def getId()
+        value = 'Titisee-2016-10-23-Board-'
+        value += '0' if (@brd.to_i < 10) 
+        value += @brd.to_s
+        return value
+    end
     def to_s
-        msg = ''
-        msg +=  "\[Board \"#{@brd}\"\]\n"
-        msg +=  "\[Dealer \"#{TEILER[@brd.to_i%4]}\"\]\n"
-        msg +=  "\[Vulnerable \"#{GEFAHR[@brd.to_i%16]}\"\]\n"
-        msg +=  "\[Deal \"N:#{@deal[0]}.#{@deal[1]}.#{@deal[2]}.#{@deal[3]} #{@deal[5]}.#{@deal[7]}.#{@deal[9]}.#{@deal[11]} #{@deal[12]}.#{@deal[13]}.#{@deal[14]}.#{@deal[15]} #{@deal[4]}.#{@deal[6]}.#{@deal[8]}.#{@deal[10]}\"\]\n"
-        msg
+      message = '"_id" : "' + getId() + '", "nr" : ' + @brd + ', ' + "\n"
+      message += "\"north\" : \{\"name\":\"north\","
+      message += "\"spades\":\"#{@deal[0]}\", \"hearts\":\"#{@deal[1]}\", \"diamonds\":\"#{@deal[2]}\", \"clubs\":\"#{@deal[3]}\"\},\n"
+      message += "\"east\" : \{\"name\":\"east\","
+      message += "\"spades\":\"#{@deal[5]}\", \"hearts\":\"#{@deal[7]}\", \"diamonds\":\"#{@deal[9]}\", \"clubs\":\"#{@deal[11]}\"\},\n"
+      message += "\"south\" : \{\"name\":\"south\","
+      message += "\"spades\":\"#{@deal[12]}\", \"hearts\":\"#{@deal[13]}\", \"diamonds\":\"#{@deal[14]}\", \"clubs\":\"#{@deal[15]}\"\},\n"
+      message += "\"west\" : \{\"name\":\"west\","
+      message += "\"spades\":\"#{@deal[4]}\", \"hearts\":\"#{@deal[6]}\", \"diamonds\":\"#{@deal[8]}\", \"clubs\":\"#{@deal[10]}\"\},\n"
+        #message += '"scores" : ['  + "\n"
+        #getScores().each do |score|
+        #    message += score + "\n"
+        #end
+        #message += ']' + "\n"
+        # msg = ''
+        # msg +=  "\[Board \"#{@brd}\"\]\n"
+        # msg +=  "\[Dealer \"#{TEILER[@brd.to_i%4]}\"\]\n"
+        # msg +=  "\[Vulnerable \"#{GEFAHR[@brd.to_i%16]}\"\]\n"
+        # msg +=  "\[Deal \"N:#{@deal[0]}.#{@deal[1]}.#{@deal[2]}.#{@deal[3]} #{@deal[5]}.#{@deal[7]}.#{@deal[9]}.#{@deal[11]} #{@deal[12]}.#{@deal[13]}.#{@deal[14]}.#{@deal[15]} #{@deal[4]}.#{@deal[6]}.#{@deal[8]}.#{@deal[10]}\"\]\n"
+        # msg
     end
 end
 
@@ -101,66 +121,71 @@ class ContractTable
     def initialize(dat)
         @contracts = Array.new()
         @html = File.open(dat).readlines
-		scan
+        scan
     end
     def scan
-		p_ns, p_ew, pos, contract, denom, suit, result, score = "", "", "", "", "", "", "", ""
-        @html.each do |line|
-			if line =~ /^<tr align=right valign=top>/ then			
-				if line.scan(/&nbsp;<\/td>/).size == 6 then
-					# puts $1,$2 if line.scan(/<td align=left>&nbsp;(.*)&nbsp;([0-9AKDB]+)<\/td>/)			
-					pos = $1 if line.scan(/<td align=right>(.*):<\/td>/)			
-					contract = $1 if line.scan(/<td align=left>(.*)<\/td><td align=left>/)
-					if contract =~ /(\d+)\s+<font\s*color=\#[0-9abcdef]+>\&\#(\d+);<\/font>\s+(.*)/ then
-						denom = $1
-						suit = $2
-						result = $3
-						suit = "C" if suit == "9827"
-						suit = "D" if suit == "9830"
-						suit = "H" if suit == "9829"
-						suit = "S" if suit == "9824"
-					elsif contract =~ /(\d+)\s+<font\s*color=\#[0-9abcdef]+>\&\#(\d+);\s+(.*)/ then
-						denom = $1
-						suit = $2
-						result = $3
-						suit = "C" if suit == "9827"
-						suit = "D" if suit == "9830"
-						suit = "H" if suit == "9829"
-						suit = "S" if suit == "9824"
-					else
-						denom,suit,result = contract.split(' ')
-						suit = 'NT' if suit == 'SA'
-					end
-					if line =~ /<td>([\d\s\&nbsp;]+)<\/td><td>([\d\s\&nbsp;]+)<\/td><td valign=bottom>/ then
-						score = -$2.gsub('&nbsp;','').gsub(' ','').to_i if $1 == '&nbsp;'
-						score =  $1.gsub('&nbsp;','').gsub(' ','').to_i if $2 == '&nbsp;'
-					end
-					if line.scan(/p(\d+).html.*p(\d+).html/) then
-						p_ns, p_ew = $1, $2 
-						@contracts << "#{p_ns}\t#{p_ew}\t#{pos}\t#{denom}#{suit}#{result}\t#{score}\n" 
-					end					
-				end		
-								
-			end
-        end
-	end
+         p_ns, p_ew, pos, contract, denom, suit, result, score = "", "", "", "", "", "", "", ""
+          @html.each do |line|
+            if line =~ /^<tr align=right valign=top>/ then			
+              if line.scan(/&nbsp;<\/td>/).size == 6 then
+                 # puts $1,$2 if line.scan(/<td align=left>&nbsp;(.*)&nbsp;([0-9AKDB]+)<\/td>/)			
+                 pos = $1 if line.scan(/<td align=right>(.*):<\/td>/)			
+                 contract = $1 if line.scan(/<td align=left>(.*)<\/td><td align=left>/)
+                 if contract =~ /(\d+)\s+<font\s*color=\#[0-9abcdef]+>\&\#(\d+);<\/font>\s+(.*)/ then
+                    denom = $1
+                    suit = $2
+                    result = $3
+                    suit = "C" if suit == "9827"
+                    suit = "D" if suit == "9830"
+                    suit = "H" if suit == "9829"
+                    suit = "S" if suit == "9824"
+                 elsif contract =~ /(\d+)\s+<font\s*color=\#[0-9abcdef]+>\&\#(\d+);\s+(.*)/ then
+                    denom = $1
+                    suit = $2
+                    result = $3
+                    suit = "C" if suit == "9827"
+                    suit = "D" if suit == "9830"
+                    suit = "H" if suit == "9829"
+                    suit = "S" if suit == "9824"
+                 else
+                    denom,suit,result = contract.split(' ')
+                    suit = 'NT' if suit == 'SA'
+                 end
+                 if line =~ /<td>([\d\s\&nbsp;]+)<\/td><td>([\d\s\&nbsp;]+)<\/td><td valign=bottom>/ then
+                    score = -$2.gsub('&nbsp;','').gsub(' ','').to_i if $1 == '&nbsp;'
+                    score =  $1.gsub('&nbsp;','').gsub(' ','').to_i if $2 == '&nbsp;'
+                 end
+                 if line.scan(/p(\d+).html.*p(\d+).html/) then
+                    p_ns, p_ew = $1, $2 
+                    @contracts << "\"pair_ns\":\"#{p_ns}\", \"pair_ew\":\"#{p_ew}\", \"declarer\":\"#{pos}\", \"contract\":\"#{denom}#{suit}\", \"result\":\"#{result}\", \"score_ns\":\"#{score}\"" 
+                 end					
+              end		
+            end
+          end
+    end
     def to_s
-        msg = "\[ContractTable \"Pair_NS;Pair_EW;Declarer;Contract;Score_NS\"\]\n"
+      message = '"scores" : ['  + "\n"
 		@contracts.each do | line |
-			msg += line
+			message += '{' + line + '}' + ",\n"
 		end
-        msg
+      message = message.chop().chop()
+      message += ']' + "\n"
     end
 end
 
 if $0 == __FILE__
     pattern = ARGV[0]
+    output = '{ "docs": ['
     Dir["#{pattern}*.html"].each do |dat| 
-        puts PbnDeal.new(dat,pattern)
-        puts ScoreTable.new(dat) 
-        puts ContractTable.new(dat) 
-        puts ""
+      output += '{'
+      output += PbnDeal.new(dat,pattern).to_s
+      # puts ScoreTable.new(dat) 
+      output += ContractTable.new(dat).to_s 
+      output += '},'
     end
+    output = output.chop() 
+    output += ']}'
+    puts output
 end
 
 
