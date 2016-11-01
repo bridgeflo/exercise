@@ -34,7 +34,7 @@ class PbnDeal
       @brd = $1
     end
     def getId()
-        value = @name + '-' + @datum + '-' + @pattern
+        value = @name + '-' + @datum + '-Board-'  
         value += '0' if (@brd.to_i < 10) 
         value += @brd.to_s
         return value
@@ -127,9 +127,16 @@ class ContractTable
         scan
     end
     def scan
-         p_ns, p_ew, pos, contract, denom, suit, result, score = "", "", "", "", "", "", "", ""
+         p_ns, p_ew, pos, contract, denom, suit, result, score, av_ns, av_ew = "", "", "", "", "", "", "", "", "", ""
           @html.each do |line|
             if line =~ /^<tr align=right valign=top>/ then			
+              if line =~/%-Score/ then
+               if line.scan(/p(\d+).html.*(\d{2})\s+\%\s+\&nbsp;.*(\d{2})\s+\%\s+\&nbsp;.*p(\d+).html/) then
+                  p_ns, av_ns, av_ew, p_ew = $1, $2, $3, $4 
+                  @contracts << "\"pair_ns\":\"#{p_ns}\", \"pair_ew\":\"#{p_ew}\", \"score_ns\":2, \"average_ns\":\"#{av_ns}\", \"average_ew\":\"#{av_ew}\""
+               end
+              else
+
               if line.scan(/&nbsp;<\/td>/).size == 6 then
                  # puts $1,$2 if line.scan(/<td align=left>&nbsp;(.*)&nbsp;([0-9AKDB]+)<\/td>/)			
                  pos = $1 if line.scan(/<td align=right>(.*):<\/td>/)			
@@ -162,6 +169,7 @@ class ContractTable
                     p_ns, p_ew = $1, $2 
                     @contracts << "\"pair_ns\":\"#{p_ns}\", \"pair_ew\":\"#{p_ew}\", \"declarer\":\"#{pos}\", \"contract\":\"#{denom}#{suit}\", \"result\":\"#{result}\", \"score_ns\":\"#{score}\"" 
                  end					
+              end
               end		
             end
           end
