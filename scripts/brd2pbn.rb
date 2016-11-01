@@ -2,8 +2,8 @@
 # brd2pbn.rb
 #                                                                                 
 # ********************************************************************************
-unless ARGV.length == 1 
-  puts "Usage: brd2pbn.rb pattern"
+unless ARGV.length == 3 
+  puts "Usage: brd2pbn.rb pattern name datum"
   exit
 end
 
@@ -23,15 +23,18 @@ class PbnDeal
                 'NS','EW','All','None',
                 'EW','All','None','NS',
                 'All','None','NS']
-    def initialize(dat,pattern)
-        html = File.open(dat).read
-        suit = scrape_deals(html)
-        @deal = suit[0..15]
-        dat =~/^#{pattern}(\d+)\.html/
-        @brd = $1
+    def initialize(dat,pattern,name,datum)
+      @name = name
+      @datum = datum
+      @pattern = pattern
+      html = File.open(dat).read
+      suit = scrape_deals(html)
+      @deal = suit[0..15]
+      dat =~ /^#{@pattern}(\d+)\.html/
+      @brd = $1
     end
     def getId()
-        value = 'Titisee-2016-10-23-Board-'
+        value = @name + '-' + @datum + '-' + @pattern
         value += '0' if (@brd.to_i < 10) 
         value += @brd.to_s
         return value
@@ -175,10 +178,12 @@ end
 
 if $0 == __FILE__
     pattern = ARGV[0]
+    name = ARGV[1]
+    datum = ARGV[2]
     output = '{ "docs": ['
     Dir["#{pattern}*.html"].each do |dat| 
       output += '{'
-      output += PbnDeal.new(dat,pattern).to_s
+      output += PbnDeal.new(dat,pattern,name,datum).to_s
       # puts ScoreTable.new(dat) 
       output += ContractTable.new(dat).to_s 
       output += '},'
