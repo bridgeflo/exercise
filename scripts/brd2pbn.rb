@@ -127,7 +127,7 @@ class ContractTable
         scan
     end
     def scan
-         p_ns, p_ew, pos, contract, denom, suit, result, score, av_ns, av_ew = "", "", "", "", "", "", "", "", "", ""
+         p_ns, p_ew, pos, contract, denom, suit, risk, result, score, av_ns, av_ew = "", "", "", "", "", "", "", "", "", "", ""
           @html.each do |line|
             if line =~ /^<tr align=right valign=top>/ then			
               if line =~/%-Score/ then
@@ -158,7 +158,7 @@ class ContractTable
                     suit = "H" if suit == "9829"
                     suit = "S" if suit == "9824"
                  else
-                    denom,suit,result = contract.split(' ')
+                    denom,suit,result = contract.split(' ') if contract && contract.split(' ').length > 2
                     suit = 'NT' if suit == 'SA'
                  end
                  if line =~ /<td>([\d\s\&nbsp;]+)<\/td><td>([\d\s\&nbsp;]+)<\/td><td valign=bottom>/ then
@@ -167,7 +167,12 @@ class ContractTable
                  end
                  if line.scan(/p(\d+).html.*p(\d+).html/) then
                     p_ns, p_ew = $1, $2 
-                    @contracts << "\"pair_ns\":\"#{p_ns}\", \"pair_ew\":\"#{p_ew}\", \"declarer\":\"#{pos}\", \"contract\":\"#{denom}#{suit}\", \"result\":\"#{result}\", \"score_ns\":\"#{score}\"" 
+                    if result.split(' ').length > 1 then
+                      risk, result = result.split(' ')
+                    else
+                      risk = ''
+                    end
+                    @contracts << "\"pair_ns\":\"#{p_ns}\", \"pair_ew\":\"#{p_ew}\", \"declarer\":\"#{pos}\", \"contract\":\"#{denom}#{suit}#{risk}\", \"result\":\"#{result}\", \"score_ns\":\"#{score}\"" 
                  end					
               end
               end		
