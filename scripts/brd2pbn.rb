@@ -130,11 +130,27 @@ class ContractTable
          p_ns, p_ew, pos, contract, denom, suit, risk, result, score, av_ns, av_ew = "", "", "", "", "", "", "", "", "", "", ""
           @html.each do |line|
             if line =~ /^<tr align=right valign=top>/ then			
-              if line =~/%-Score/ then
+              if line =~ /%-Score/ then
                if line.scan(/p(\d+).html.*(\d{2})\s+\%\s+\&nbsp;.*(\d{2})\s+\%\s+\&nbsp;.*p(\d+).html/) then
                   p_ns, av_ns, av_ew, p_ew = $1, $2, $3, $4 
                   @contracts << "\"pair_ns\":\"#{p_ns}\", \"pair_ew\":\"#{p_ew}\", \"score_ns\":2, \"average_ns\":\"#{av_ns}\", \"average_ew\":\"#{av_ew}\""
                end
+              elsif line =~ /Pass/ then
+                 if line =~/\%/ then
+                   if line.scan(/p(\d+).html.*(\d{2})\s+\%\s+\&nbsp;.*(\d{2})\s+\%\s+\&nbsp;.*p(\d+).html/) then
+                      p_ns, av_ns, av_ew, p_ew = $1, $2, $3, $4 
+                      @contracts << "\"pair_ns\":\"#{p_ns}\", \"pair_ew\":\"#{p_ew}\", \"score_ns\":2, \"average_ns\":\"#{av_ns}\", \"average_ew\":\"#{av_ew}\""
+                   end
+                 else
+                   if line =~ /<td>([\d\s\&nbsp;]+)<\/td><td>([\d\s\&nbsp;]+)<\/td><td valign=bottom>/ then
+                      score = -$2.gsub('&nbsp;','').gsub(' ','').to_i if $1 == '&nbsp;'
+                      score =  $1.gsub('&nbsp;','').gsub(' ','').to_i if $2 == '&nbsp;'
+                   end
+                   if line.scan(/p(\d+).html.*p(\d+).html/) then
+                      p_ns, p_ew = $1, $2 
+                      @contracts << "\"pair_ns\":\"#{p_ns}\", \"pair_ew\":\"#{p_ew}\", \"declarer\":\"\", \"contract\":\"Pass\", \"result\":\"\", \"score_ns\":\"0\"" 
+                   end
+                 end
               else
 
               if line.scan(/&nbsp;<\/td>/).size == 6 then
