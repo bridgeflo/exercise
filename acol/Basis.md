@@ -1052,16 +1052,525 @@ Wenn jedoch auf einer Seite 13 HP und auf der anderen Seite 11 HP sind, dann wir
 
 # Vierte-Farbe-forcing
 
+   - Konvntion
+   - gehört zur Grundausstattung
+   - diese Konvention ist nicht Runden- sondern Gameforcing
+   - drei Varianten:
+      1) auf der ersten Stufe
+      2) auf der zweiten Stufe
+      3) auf der dritten Stufe
 
-     
+   - Erkennungsmerkmal ist die vierte Farbe, die gereizt wird
 
+   - Beispiele
+
+    zu 1)
+    1T – 1K
+    1C – 1P
+
+    zu 2)
+    1C – 1P
+    2T – 2K
+
+    zu 3)
+    1P – 2K
+    2K – 3T
+
+## Bei Anwendung dieser Konvention hat die gereizte Farbe ihre natürlicheBedeutung verloren
+
+   - Jede Konvention – außer Stayman – muss alertiert werden
+   - man muss nach Nachfrage erklären was sich hinter der Konvention verbirgt
+
+   - Vierte-Farbe-forcing hat zwei Bedeutungen
+      - mit Partner zusammen 25 HP, daher auch Game-forcing
+      - frage nach mehr Information über die Hand des Partners: Verteilung und HP
+
+   - Die Konvention Vierte-Farbe-forcing ist nur dann anzuwenden, wenn
+      - mindestens ein Vollspiel möglich ist und
+      - die zwei Informationen des Partners nicht ausreichen
+
+## Vierte-Farbe-forcing auf der ersten Stufe
+
+    1T – 1K
+    1C – 1P  ab 12 HP, Game-forcing (muss vom Partner alertiert werden)
+
+   - Antworten:
+
+    1.
+    1T – 1K
+    1C – 1P
+    1SA     - 13-14 HP, 4er Treff + 4er Coeur + 2 + 3, Stopper in Pik, ausgeglichene Hand
+
+   - Erklärung:
+   - 13-14 HP; siehe Rebid des Eröffners
+   - Warum Stopper in Pik?
+      - Wenn die gereizte Farbe Pik nein Pik bedeutet (Konvention!), dann macht die Reizung SA keinen Sinn, wenn in der ungereizten Farbe (hier Pik) kein Stopper vorhanden ist. Denn weder mein Partner noch ich halten 4 Karten in Pik.
+   - Warum ausgeglichene Hand
+      - SA verlangt eine ausgeglichene Hand
+
+##
+
+    2.
+    1T – 1K
+    1C – 1P
+    2T      - 12-14 HP mindestens 5er Treff und 4er Coeur
+
+   - Erkärung
+   - 12-14 HP; siehe Rebid des Eröffners und eine neue Farbe ohne Sprung. Aber dort lesen wir, dass das 12-16 HP bedeutet. Warum also nur 12-14 HP? Wiederholung der eigenen Farbe ohne Sprung bedeutet mindestens eine Karte mehr, Schwäche und unausgeglichene Hand. "Schwäche" erklärt die 14 HP. Die Wertung wird jetzt in 12-14 HP und 15-16 HP geteilt.
+
+##
+
+    3.
+    1T – 1K
+    1C – 1P
+    2K      - 12-14 HP, entweder 4er Treff + 4er Karo + 4er Coeur + 1er Pik oder: 5er Treff + 4er Karo + 4er Coeur
+
+   - Erklärung:
+   - 12-14 HP; siehe Rebid des Eröffners
+   - 2K ist eine Hebung der Farbe des Partners ohne Sprung. Fit in Karo (4 Karten), da der Partner nur 4 Karten in Karo haben kann. Der Grund, warum der Eröffner mit 5er Treff + 4er Karo + 4er Coeur nicht 2T sondern 2K reizt, ist, dass 2T dem Partner eine Karte mehr zeigen, 2K zeigen dem Partner 4 Karten mehr als bisher
+
+##
+
+    4.
+    1T – 1K
+    1C – 1P
+    2C      - 12-14 HP, 6er Treff und 5er Coeur
+
+   - Erklärung:
+   - 12-14 HP, Wiederholung der eigenen Farbe ohne Sprung zeigt Schwäche, daher bewegen wir uns im unteren Feld (sieheauch die Erklärung unter 2.)
+   - Warum 6er Treff und 5er Coeur?
+      - Wiederholung der eigenen Farbe verlängert die Farbe um eine Karte, also nur 4 Karten auf 5. Wenn wir dann noch an unser "Gesetz der Länge" denken, dann hätten wir bei einer 5:5 Verteilung zuerst Coeur und dann Treff genannt. Da jetzt aber Treff zuerst genannt wurde, muss diese zu sechst sein da wir sonst gegen das "Gesetz der Länge" verstoßen.
+
+##
+
+    5.
+    1T – 1K
+    1C – 1P
+    2P      - 13-14 HP, entweder: 4er Treff + 4er Coeur + 4er Pik + 1er Karo oder: 5er Treff + 4er Coeur + 4er Pik
+
+   - Erklärung:
+   - 13-14 HP, da der Eröffner eine neue Farbe ohne Sprung reizt
+      - 1P – 1P = Hebung der Farbe des Partners. Außerdem muss man mindestens 4 Karten haben, wenn man eine neue Farbe reizt (Pik beim Partner hat ja hier nichts mit Pik zu tun).
+
+##
+
+    6.
+    1T – 1K
+    1C – 1P
+    2SA     - 13-14 HP, 4er Treff + 4er Coeur + 3 + 2 beliebig, aber keinen Stopper in Pik
+
+   - Erklärung:
+   - Die gleiche HP und die gleiche Verteilung wie bei 1SA (siehe 1.), aber im Unterschied zu 1SA signalisiert die Antwort 2SA keine Stopper in Pik. Dies erscheint ziemlich eigenartig. Vergleichen wir die Reizung unter 1. und 5. miteinander, dann müsste die Reizung 2SA eine ähnliche Verteilung mit mehr HP zeigen. Wenn wir die Hand jedoch analysieren, dann stellen wir fest, dass man "mehr" HP aus logischen Gründen nicht möglich sind.
+   - 1. Die Reizung 1T – 1K – 1C setzt eine obere HP-Grenze: 16 HP! Hätte man mehr HP gehabt, dann wäre man entweder in Coeur oder in SA (18-19 HP) gesprungen
+   - 2. Wären von Anfang an 15-17 HP + eine ausgeglichene Verteilung + Stopper in mindestens drei Farben vorhanden gewesen, dann hätte man 1SA und nicht 1T eröffnet. Die einzige Variente, die übrig bleibt, sind 13-14 HP, aber die sind schon mit 1T – 1K – 1C – 1P – 1SA belegt. Was aber machen wir, wenn wir eine ausgeglichene Hand 13-14 HP und keinen Stopper in Pik haben? Passen können wir nicht und eine Konvention anzuwenden, die Lücken hat, macht keinen Sinn. Am Ende wird man sehen, dass es keine Verteilung gibt, die man man nicht gezeigt hat.
+
+##
+
+    7.
+    1T – 1K
+    1C – 1P
+    3T      - 15-16 HP + mindestens 6er Treff
+
+   - Erklärung:
+   - 1T – 3T = Sprung in die eigene Farbe: mindestens 6 Karten + einladend, so lautet das Grundprinzip beim Rebid des Eröffners.
+
+##
+
+    8.
+    1T – 1K
+    1C – 1P
+    3K      - 15-16 HP, entweder: 4er Treff + 4er Karo + 4er Couer + 1er Pik oder: 5er Treff + 4er Karo + 4er Coeur
+
+   - Erklärung:
+   - Gleiche Verteilung wie bei 3., nur mehr HP, da mit sprung gereizt wurde: 1K – 3K. Mehr als 16 HP sind aber nach der Reizung 1T – 1K – 1C nicht mehr möglich.
+
+##
+
+    9.
+    1T – 1K
+    1C – 1P
+    3C      - 15-16 HP, 6er Treff + 5er Coeur (siehe zu 4.), der Sprung zeigt nur mehr HP.
+
+    10.
+    1T – 1K
+    1C – 1P
+    3P      - 15-16 HP, entweder: 4er Treff + 4er Coeur + 4er Pik (wie bei 5. nur mit Sprung 1P – 3P) oder: 5er Treff + 4er Coeur + 4er Pik
+
+   - Mit diesem Beispiel ist das Kapitel "Vierte-Farbe-forcing auf der ersten Stufe" abgeschlossen. Die Reizung 1T – 1K / 1C – 1P / 3SA gibt es nicht. Die vorstehenden Beispiele beschreiben alle Möglichkeiten zwischen 13-16 HP.
+
+## Vierte-Farbe-forcing auf der zweiten Stufe
+
+    1C – 1P
+    2T – 2K - 12-16 HP, mindestens 5er Coeur + 4er Treff
+
+oder
+
+    1K – 2T
+    2C – 2P - 17-21 HP, mindestens 5er Karo + 4er Coeur
+
+##
+
+    1.
+    1C – 1P
+    2T – 2K - mindestens 12 HP, mit dem Partner zusammen 25 HP (zeigt mindestens 13 HP)
+    2C      - 12-14 HP, 6er Coeur + 4er Treff (siehe Wiederholung der eigenen Farbe ohne Sprung), Schwäche und mindestens eine Karte mehr
+
+    2.
+    1C – 1P
+    2T – 2K
+    2P      - 12-14 HP, entweder: 5er Coeur + 4er Treff + 3er Pik + 1er Karo oder: 5er Coeur + 5er Treff + 3er Pik, Hebung ohne Sprung, 3er Pik (sonst hätte man schon im Vorfeld den Fit mit 4 Karten zugegeben).
+
+##
+
+    3.
+    1C – 1P
+    2T – 2K
+    2SA     - 12-14 HP (Schwäche), 5er Coeur + 4er Treff + Stopper in Karo, ausgeglichen kann die Verteilung mit 5:4 nicht mehr sein, aber Stopper in der vierten Farbe sind obligatorisch.
+
+    4.
+    1C – 1P
+    2T – 2K
+    3T      - 5er Coeur + 5er Treff, aber 12-16 HP, 3SA-Grenze darf nicht überschritten werden.
+
+##
+
+    5.
+    1C – 1P
+    2T – 2K
+    3K      - Dies ist eine neue Bedeutung deiese Reizung. Man zeigt 5er Coeur + 4er Treff, keine 3er Pik und keine Stopper in Karo. Diese Reizung nennt sich Fünfte-Farbe-forcing. Sie macht nur dann Sinn wenn man nichts mehr sagen darf, aber nicht Passen kann. So gibt man den "Ball" zurück an den Partner, denn die Vierte-Farbe-forcing ist ja Game-forcing.
+
+    6.
+    1C – 1P
+    2T – 2K
+    3C      - 15-16 HP (mit Sprung), 6er Coeur + 4er Treff
+
+    7.
+    1C – 1P
+    2T – 2K
+    3P      - 15-16 HP (mit Sprung) entweder: 5er Coeur + 4er Treff + 3er Pik + 1er Karo oder: 5er Coeur + 5er Treff + 3er Pik
+
+##
+
+    8.
+    1C – 1P
+    2T – 2K
+    3SA     - 15-16 HP (mit Sprung), 5er Coeur + 4er Treff + Stopper in Karo
+
+    9.
+    1K – 2T
+    2C – 2P - Diesmal braucht man nur 8 HP, da der Eröffner Reverse reizt (17!)
+    2SA     - 17-19 HP (Reverse), 5er Karo + 4er Coeur und Stopper in Pik
+
+    10.
+    1K – 2T
+    2C – 2P
+    3T      - 17-21 HP, 5er Karo + 4er Coeur + 3er Treff + 1er Pik; nur 3T, da die 3SA-Grenze nicht überschritten werden darf.
+
+##
+
+    11.
+    1K – 2T
+    2C – 2P
+    3K      - 17-21 HP (Reverse), 6er Karo + 4er Coeur; nur 3K, da die 3SA-Grenze nicht überschritten werden darf.
+
+    12.
+    1K – 2T
+    2C – 2P
+    3C      - 17-21 HP (Reverse), 6er Karo + 5er Coeur; nur 3C, weil es dem Partner überlassen bleibt, ob er 3SA, 4C oder Schlemm spielen möchte.
+
+    13.
+    1K – 2T
+    2C – 2P
+    3P      - Fünfte-Farbe-forcing: 17-21 HP (Reverse), 5er Karo + 4er Coeur + keine 3er Treff und kein Stopper in Pik
+(siehe auch 5.)
+
+    14.
+    1K – 2T
+    2C – 2P
+    3SA     - 20-21 HP (Reverse), 5er Karo + 4er Coeur, Stopper in Pik
+
+## Vierte-Farbe-forcing auf der dritten Stufe
+
+    1C – 1P
+    2K – 3T - ab 12 HP
+oder
+    1C – 1P
+    3T – 3K - ab 8 HP, da 3T ab 17 HP zeigt
+
+##
+
+    1.
+    1C – 1P
+    2K – 3T
+    3K      - 12-16 HP, 5er Coeur + 5er Karo + kein Stopper in Treff
+
+    2.
+    1C – 1P
+    2K – 3T
+    3C      - 12-16 HP, entweder: 6er Coeur + 4er Karo + kein Stopper in Treff oder: 5er Coeur 4er Karo + kein Stopper in Treff (Ausnahme!!)
+
+    3.
+    1C – 1P
+    2K – 3T
+    3P      - 12-16 HP, entweder: 5er Coeur + 4er Karo + 3er Pik + 1er Treff oder: 5er Coeur + 4er Karo + 3er Pik 0 T
+
+    4.
+    1C – 1P
+    2K – 3T
+    3SA     - 12-16 HP, mindestens 5er Coeur+ 4er Karo und Stopper in Treff
+
+##
+
+    5.
+    1C – 1P
+    3T – 3K - ab 8 HP, da 3T ab 17 HP zeigt
+    3C      - 17-21 HP, entweder: 5er Coeur + 4er Treff + kein Stopper in Karo oder: 5er Coeur + 4er Treff und kein Stopper in Karo
+
+    6.
+    1C – 1P
+    3T – 3K
+    3P      - 17-21 HP, entweder: 5er Coeur + 4er Treff + 3er Pik + 1er Karo oder: 5er Coeur + 5er Treff + 3er Pik
+
+    7.
+    1C – 1P
+    3T – 3K
+    3SA     - 17-21 HP, 5er Coeur + 4er treff und Stopper in Karo
+
+##
+
+   - Die Vierte-Farbe-forcingist hinsichtlich der Beschreibung der Hand auf der ersten Stufe eine sehr genaue Konvention, denn es stehen noch zwei Bietstufen zur Verfügung. Auf der zweiten Stufe ist die Konvention schon weniger genau und auf der dritten Stufe reduzieren sich die Fragen auf Stopper in der vierten Farbe, da der Bietraum "eng" geworden ist.
+   - Ganz wichtig ist, dass die 3SA-Grenze nicht überschritten werden darf.
+   - Mit dem Abschluss dieses Kapitels haben wir uns ein unerschütterliches Fundament im Bridge geschaffen.
+    
 # Gegenreizung
+
+## Definition einer Gegenreizung
+
+   - Eine direkte Reizung nach einer Eröffnung des Gegners. Es ist ein Kampf "Mann gegen Mann".
+
+    Beispiel 1:   N     O     S     W
+                  1K    (1C)              () = Gegenreizung
+
+## Definition einer Zwischenreizung
+
+   - Eine Zwischenreizung erfolgt immer, wenn die beiden Gegner gereizt haben (Sandwich-Position). Es ist ein Kampf "Einer gegen Zwei".
+
+    Beispiel 2:   N     O     S     W
+                  1K    Pass  1C    1P    () = Zwischenreizung
+
+   - Im prinzig sollte eine Zwischenreizung stärker als eine Gegenreizung.
+
+   - Erklärung:
+   - Beide Beispiele zeigen eine Gegen und eine Zwischenreizung auf der ersten Stufe. Die Bedingungen für eine Zwischenreizung sollten äquivalent sind mit den Bedingungen einer Eröffnung. Erinnern wir uns an die zwei Säulen einer Eröffnung: 13 HP + 4 Karten in einer Farbe. Die Säulen einer Gegen- oder Zwischenreizung sind: 10 bzw. 11 HP + 5 gute bzw. sehr gut Karten in der Farbe
+
+##
+
+   - Gute Karten bedeuten mindestens ein hohen Honneur (A, K, D). Für sehr gute Karten benötigt man mindestens zwei hohe Honneurs und eine mittlere Karte (10, 9, 8). Eine Gegen- oder Zwischenreizung ist, genau wie die Eröffnung, nach oben begrenzt und zwar bis 15 HP. Es stellt sich die Frage, wieso sind die Säulen für eine Gegen- oder Zwischenreizung und eine Eröffnung nicht identisch?
+
+  - Sie sind fast identisch, und zwar 2-3 HP weniger, aber dafür 5 gute oder sehr gute Karten in einer Farbe (Ausgleichsgesetz). Aber warum nicht die gleichen Bedingungen sondern äquivalente? Dafür müssen wir uns die Gefahrenlage ansehen. Bei einer Gegen- oder Zwischenreizung, bei der man sich "in Gefahr" befindet, muss man die beiden Säulen erhöhen (das heißt mehr HP und/oder mehr Qualität oder Quantität bei der Farbe). Bei einer Gegen- oder Zwischenreizung , bei der man sich dagenen "in Nicht-Gefahr" befindet, bleiben die beiden Säulen.
+
+##
+
+    Beispiel 1
+    A 10 x x x    - In Gefahr Pass; in Nicht-Gefahr 1P
+    K D x
+    D x
+    x x x
+
+    Beispiel 2
+    x x x x       - In Gefahr gegen Nicht-Gefahr, sonst 2 Treff
+    A x x
+    x
+    A K x x x
+
+   - HP und/oder Verteilung (Bewertung der Hand) erhöhen, falls in Gefahr im Verzug ist. Jonglieren, aber nur mit dem Minimum der HP und nicht mit dem Maximum, sonst droht der Verlust eines Vollspiels oder sogar eines Schlemms.
+   - Ab 16 HP haben wir eine andere Reizung zur Verfügung und zwar Kontra (X)
 
 ## SA-Zwischenreizung
 
+   - Eine SA-Zwischenreizung unterscheidet sich kaum von SA als Eröffnung.
+   - Unterschiede:
+   - maximale Grenze kann 18 HP sein anstelle von 17 HP und – sehr wichtig – ein Stopper ist in  Eröffnugsfarbe des Gegners notwendig
+
+   - Diesmal ist die Farbe des Gegners bekannt und nicht wie bei der Eröffnung unbekannt. Man sieht die gegnerische "Armee" und muss Maßnahmen ergreifen, um die "Festung" zu schützen.
+
+## Antworten auf Zwischenreizungen
+
+   - Ausgangsbasis: 1K – 1C – Pass
+    1. 1P/2T                             - Minimum 10 HP, 5 Karten (Forcing für eine Runde)
+    2. 1SA                               - 8-10 HP + Stopper in der Eröffnungsfarbe (Karo)
+    3. 2SA                               - 11-12 HP + Stopper in der Eröffungsfarbe (Karo)
+    4. Einfache Hebung (2C)              - 8-10 (HP + VP + LP) + Fit
+    5. Doppelte Hebung                   - 11-12 (HP + VP + LP) + Fit
+    6. Überruf der Eröffnungsfarbe (2K)  - ab 13 HP oder äquivalent in Verteilung
+
+## Rebid des Zwischenreizenden
+
+   - Ausgansbasis: 1K – 1C – Pass – 1P/2T
+    1. 1SA/2SA                   - 10-12 HP + Stopper in Karo + ausgeglichene Verteilung
+    2. 2SA/3SA                   - 13-15 HP + Stopper in Karo + ausgeglichene Verteilung
+    3. 2T nach 1P                - 12 HP + 5:4 Verteilung
+    4. 2P nach 2T                - 13-15 HP + 5:4 Verteilung
+    5. Hebung ohne Sprung        - 10-12 HP + Fit
+    6. Hebung mit Sprung         - 13-15 HP + Fit
+    7. Überruf der Eröffnerfarbe - 14-15 HP + ausgeglichene Verteilung + kein Stopper in Karo, z. B. Frage nach Stopper, um 3SA spielen zu können.
+
+##
+
+   - Ausgansbasis: 1K – 1C – Pass – 1SA
+    1. Neue Farbe ohne Sprung (2T)                      - 10-12 HP + 5:4 Verteilung
+    2. Neue Farbe mit Sprung (3T, 2P)                   - 13-15 HP + 5:4 Verteilung
+    3. 2SA                                              - 14-15 HP + ausgeglichene Verteilung, einladend
+    4. Wiederholung der eigenen Farbe ohne Sprung (2C)  - 10-13 HP + 6 Karten
+    5. Wiederholung der eigenen Farbe mit Sprung (3C)   - 14-15 HP + 6 Karten
+
+##
+
+   - Ausgansbasis: 1K – 1C – Pass – 2SA
+   - Alle Reizungen auf der 3er Stufe (3T-3P) sind Game-forcing (14-15 HP), sonst Pass
+
+   - Ausgangsbasis: 1K – 1C – Pass – 2C
+    1. Neue Farbe (Long Trial Bid)           - Runden-forcing
+    2. Wiederholung der eigenen Farbe (3C)   - einladend zum Game
+    3. 2SA                                   - 14-15 HP + Stopper in Karo + ausgeglichene Hand, einladend zum Game
+
+##
+
+   - Ausgangsbasis: 1K – 1C – Pass – 3C
+   - 4C mit Maximum (14-15 HP) und Pass mit Minimum (10-12 HP). Bei 13 HP Bewertung der Hand.
+
+   - Ausgangsbasis: 1K – 1C – Pass – 2K
+    1. Wiederholung der eigenen Farbe ohne Sprung (2C)   - 10-11 HP + 5-6 Karten, Schwäche
+    2. Wiederholung der eigenen Farbe mit Sprung (3C)    - 13-15 HP + 6 Karten, Game-forcing, weil 2K ab 13 HP war
+    3. Neue Farbe (2P oder 3T)                           - 12-15 HP + 5:4 Verteilung
+    4. 2SA                                               - 10-11 HP + Stopper in Karo + ausgeglichene Hand
+    5. 3SA                                               - 12-15 HP + Stopper in Karo + ausgeglichene Hand
+
+   - Damit haben wir das Kapitel Gegen- und Zwischenreizung geklärt und wir können zu einem anderen Thema wechseln, das jedoch auch mit Gegenreizung zu tun hat.
+
 ## X = Kontra
 
+## Strafkontra
+
+   - Die Reizung "Kontra" ist grundsätzlich erstmal eine Gegenreizung, die nur nach einer Eröffnug oder Intervention gegeben werden kann.
+   - Bridge ist ein Sport – ein Denksport. Genau wie bei jedem anderen Sport möchte man auch beim Bridge die eigenen Ergebnisse mit denen des Gegeners vergleichen. Sollten die Gegener also einen – unserer Meinung nach – zu "hohen" Entscheidung mit Kontra "zu bestrafen".
+   - Fehlt dem Gegner am Ende ein Stich zur Erfüllung des Kontraktes, bekommt man selbst anstelle von 50 Punkten (nicht in Gefahr) 100 Punkte oder statt 100 Punkten (in Gefahr) 200. Fehlen gar zwei oder mehr Stiche, dann wird die Punktzahl nicht verdoppelt oder verdreifacht, sondern eine Formel zur Berechnung angewandt:
+      - Nicht in Gefahr (2 x n) – 1 und in Gefahr (3 x n) – 1. (n = Zahl der Faller)
+
+    Beispiel: Bei 2P mit X (X = Kontra) fehlen 2 Stiche zur Kontrakterfüllung:
+    Nicht in Gefahr  (2 x 2) –1 = 3 x 100 Punkte = 300 Punkte
+          in Gefahr  (3 x 2) –1 = 5 x 100 Punkte = 500 Punkte
+
+##
+
+   - Wir sehen: Wird das Kontra richtig angewandt, kann die Punktzahl gegen den Gegner (und für uns) höher sein als die, die den Gegner beim Erreichen des Kontraktes hätte erziehlen können. Aber diese Reizung kann auch eine zweischneidige Sache sein: Falsch eingesetzt schadet man sich selbst. Erfüllt der Gegner den Kontrakt, dann erhält er die doppelte Punktzahl.
+
+    Beispiel:  2P X erfüllt = 30 x 2 x 2 = 120 Punkte + 50 Bonuspunkte für den Teilkontrakt + 300 (500 in Gefahr) Bonuspunkte für Game = 470 (nicht in Gefahr) oder 670 (in Gefahr)
+
+   - Wir sehen daran, dass ein Kontra viele Punkte sowohl in die eine als auch in die andere Richtung bringen kann.
+
+## Informationskontra
+
+   - Ein Informationskontra ist die zweite Art des Kontras
+   - In unserer Sprache kann ein und derselbe Begriff verschiedene Beudeutungen annehmen – und natürlich gibt es dieses Phänomenen auch beim Bridge. So ist Kontra nicht nur ein Strafkontra, sondern es kann auch ein Informationskontra bedeuten.
+   - Was ist ein Informationskontra und warum benötigen wir es?
+   - Ein Informationskontrabeschreibt eine Hand (HP + VP), die mit einer natürlichen Reizung nicht gezeigt werden kann
+
+    Beispiel:
+    Der Gegner hat mit 1P eröffnet. Sie erhalten folgende Hand:
+    x x
+    A D x x
+    K x x
+    A x x x
+
+   - Gemäß dem, was wir bislang gelernt haben, können wir trotz Eröffnungsstärke (13 HP) nichts sagen. Für eine Gegenreizung mit 2T oder 2C benötigen wir jeweils mindestens 5 Karten. Aufgrund der Tatsache, dass Situationen wie diese relativ häufig im Bridge vorkommen, und dadurch auf Dauer Teilkontrakte oder gar Vollspiele "verloren" gehen könnten, ist das Informationskontra entstanden.
+
+   - Folgende Bedingungen müssen bei einem Informationskontra erfüllt werden:
+    1)   Bei nicht gepasster Hand
+         - mindestens 13 HP und
+         - mindestens eine 4 4 3 Verteilung in den nicht gereizten Farben (Spielbereitschaft in allen ungereizten Farben).
+
+    2)   Bei gespasster Hand
+         - 10-12 HP und 
+         - mindestens eine 4 4 3 Verteilung in den nicht gereizten Farben (Spielbereitschaft in allen ungereizten Farben).
+
+   - Was heißt in diesem Fall gepasste und nicht gepasste Hand?
+   - Wenn man vorher gepasst hat, dann kann man keine 13 HP mehr haben, sonst hätte man eröffnet. Aus diesem Grund unterscheiden wir ein Informationskontra nach gepasster oder nicht gepasster Hand.
+
+##
+
+   - Was bedeutet nur das "Informationskontra"?
+   - Bei ungepasster Hand zeigt es zum einen bezüglich der Honneurpunkte eine Hand, die eine ähnliche Stärke hat wie der Gegner/Eröffner. Dann zeigt es eine eigene Verteilung (4 4 3 in den ungereizten Farben), die dem Partner eine 75%ige Wahrscheinlichkeit gibt, einen Fit zu finden, sollte die Stärke des Kontra gebenden Partners nicht ausreichen, einen höheren Kontrakt auszureizen. Da ein Informationskontra den Partner forciert, er also gezwungenermaßen "sprechen" muss, darf man nicht davon ausgehen, dass der Partner Punkte hat. Unter Umständen kann er null Honneurpunkte haben, auch Yarborough genannt. Aus diesen Gründen muss bei einem Informationskontra die Verteilung 4 4 3 in den ungereizten Farben sein, um die Chance auf einen Sicherheitsfit zu erhöhen.
+
+##
+
+Bei gepasster Hand macht die Reizung Kontra als Informationskontra nur dann Sinn, wenn der Partner aus logischen Gründen Honneurpunkte haben muss. Mit anderen Worten, die Gegner wollen nur einen Teilkontrakt spielen, und die fehlenden Honneurpunkte müssen beim Partner sein, sonst hätten die Gegner ein Vollspiel ausgereizt.
+
+## Antworten auf ein Informationskontra
+
+    Beispiel:     Kontra
+               1K       Pass
+                    ?
+
+    1.   Eine neue Farbe ohne Sprung zeigt 0-10 HP, mindestens 4 Karten in der Farbe, die man reizt: 1C/P/2T
+    2.   1SA zeigt 6-10 HP und Stopper in der gereizten Farbe
+    3.   2SA zeigt 11-12 HP und Stopper in der gereizten Farbe
+    4.   3SA zeigt 13-15 HP und Stopper in der gereizten Farbe
+    5.   Eine neue Farbe mit Sprung zeigt 9-11 HP und mindestens 5 Karten in der Farbe, Einladung zum Vollspiel: 2C/P/3T
+    6.   2K Überruf zeigt mehr als 11 HP und ist die einzig forcierende Antwort, Game-forcing, da 13 HP + 12 HP = 25 HP
+    7.   Pass: mindestens 9 HP + 4 sehr gut Karten in der Farbe des Eröffners. Pass ist die Umwandlung des Informationskontras in ein Strafkontra, wenn die Mehrheit der HP (mindestens 22 HP bei uns) und das Halten der gegnerischen Farbe (mindestens 4 sehr gut Karten) stimmt.
+
+## Antworten des Kontrierenden nach Antwort des Partners
+
+    1.   Bei 1C/P/2T
+         - Pass mit 13-15 HP
+         - 1SA mit 19-21 HP, ausgelichene Verteilung und Stopper in der Eröffnungsfarbe
+
+         - Erklärung: Wenn der Partner mit der Antwort 1C/P/2T null HP haben kann, dann würde die Rückantwort 1SA mit 13-14 HP einen Bruch in unserem Sicherheitsfaktor darstellen und sich nicht mehr mit unserer 60%-Regel in Einklang bringen lassen. Hat der Kontrierende 15-18 HP, dann hätte er anstelle von "Kontra" "1SA" gereizt. Die einzige sinnvolle Möglichkeit also sind 19-21 HP. Mit dieser Punktzahl hat der Kontrierende allein die Hälfte der im Spiel befindlichen HP in der eigenen Hand oder zusammen mit dem Partner hält.
+         - Bei 2T/C/P (neue Farbe ohne Sprung) zeigt 16-19 HP und mindestens 5 Karten in der Farbe. Einladend zum Vollspiel, wenn der Partner nicht sehr schwach ist. Warum 16-19 HP und nicht ab 13 HP? Bei 10/11-15 und einer 5er Länge hätte er nicht kontrier, sondern eine Zwischen- oder Gegenreizung "Eins über Eins" oder "Zwei über Eins" gemacht. Es ist also klar, warum mindestens 16 HP vorhanden sein müssen. Warum aber bis maximal 19 HP? Die Reizung ist nur einladend, nicht forcierend. Ab 20 HP kommt der Überruf der gegnerischen Farbe.
+
+##
+
+    Beispiel:
+    1K – Kontra – Pass – 1C
+    Pass – 2K (ab 20 HP)
+
+    - 2C/P/3T
+    - Hebung der Partnerfarbe zeigt 15-16 HP und 4er Coeur/Pik/Treff
+
+    - 3C/P
+    - Sprung in der Partnerschaftsfarbe zeigt 17-19 HP + VP und 4er Coeur/Pik. Mit 17-19 HP und 4er Treff macht man einen Überruf in der Gegnerfarbe (Frage nach Stoppern), nicht 4T, da die 3SA-Grenze sonst überschritten wird.
+
+##
+
+    2.   1K – Kontra – Pass – 1SA
+         6-10 HP und Stopper in Karo
+
+    3.   1K – Kontra – Pass – 2SA
+         Pass – Pass:
+         Der Partner zeigt mit 2SA 11-12 HP und Stopper in Karo. Mit "schlechten" 13 HP muss der Kontrierende passen sonst heißt die Antwort 3SA
+
+    4.   1K – Kontra – Pass – 3SA
+         Pass – Pass:
+         Der Partner zeigt 13-15 HP und Stopper in Karo. Wenn kein Schlemm möglich ist, dann muss der Kontrierende passen
+
+    5.   Bei 2C/P/3T:
+         Der Partner zeigt 9-11 HP und 5er Länge. Jede neue Farbe ist für den Kontrierenden ab 16 HP Game-forcing. Hat er nur 13 HP, dann muss er passen, mit 14 HP einladen. Achtung: Beim Oberfarbenfit die Längen- und Verteilingspunkte dazuzählen.
+
+    6.   1K – Kontra – Pass – 2K: Überruf ab 12 HP
+         Jede neue Farbe ohne Sprung zeigt minimales Informationskontra: 13-15 HP + 4 Karten. Ab 16 HP + 5 Karten diese Farbe mit Sprung reizen oder – falls keine 5 Karten verhanden sind – SA (+ Stopper in der Gegnerfarbe) oder Überruf der Gegnerfarbe (Frage beim Partner nach Stoppern, da selbst keine vorhanden).
+
 ## XX = Rekontra
+
+   - Das Kontra des Gegners kann mit einem Rekontra erwidert werden. Ob Informationskontra oder Strafkontra ist egal, in beiden Fällen kann man Rekontra als gültige Reizung anwenden.
+   - Sollte nach dem Rekontra dreimal gepasst werden, verwandelt sich das Rekontra in einen Endkontrakt, in dem die Nachricht heißt:
+      - Wir erfüllen den Kontrakt mit Kontra und Rekontra und falls am Ende des Spieles die Zahl der Stiche mit dem gereizten Kontrakt übereinstimmt, wird die Punktzahl mal vier gerechnet.
+
+       Beispiel:
+       2Pxx erfüllt = 2 x 30 x 2 x 2 + 100 (Bonus für kontrierenden Teilkontrakt) + 300 (500) Bonus für Game, nicht in Gefahr/ in Gefahr = 640/840 Punkte
+
+       Ein anderes Beispiel:
+       3SAxx = 100 x 2 x 2 + 50 + 300 (500) = 750 (950) Punkte
 
 # Wiederbelebungsreiung
 
@@ -1077,7 +1586,7 @@ Wenn jedoch auf einer Seite 13 HP und auf der anderen Seite 11 HP sind, dann wir
 
 # Schlemmreizungen
 
-## Blackwood-Konverntione
+## Blackwood-Konverntion
 
 ## Weiterführende Reizungen auf 4 SA
 
@@ -1086,3 +1595,4 @@ Wenn jedoch auf einer Seite 13 HP und auf der anderen Seite 11 HP sind, dann wir
 ## Konvention Große Josephine
 
 ## Erst- und Zweitkontrolle: Cue-Bid
+
