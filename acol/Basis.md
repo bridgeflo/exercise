@@ -1738,7 +1738,113 @@ Bei gepasster Hand macht die Reizung Kontra als Informationskontra nur dann Sinn
 
    - bei Erfüllung des Kontraktes erhält man extrem viele Punkte
 
+    Beispiel (wenn man rekontriert und fällt):
+    2Pxx -1 = 100 x 2 = 200 (nicht in Gefahr); 200 x 2 = 400 (in Gefahr)
+    2Pxx -2 = 
+
+   - Dies war die erste Facette der Reizung Rekontra, auf die zweite muss man etwas tiefer eingehen.
+
+##
+
+   - Wie beim Kontra wurde dem Rekontra eine zweite Bedeutung hinzugefügt.
+   - Wenn das Kontra ein Strafkontra war, dann ist Rekontra – wie verher beschrieben – eine Gegenmaßnahme.
+   - Was aber wenn das Kontra ein Informationskontra war?
+
+    Beispiel: 1Tx
+    K x x x 
+    K D x x
+    x x x 
+    K x 
+
+##
+
+   - Mit einer solchen Hand ist sicherlich der Kontrakt 1Txx zu erfüllen, trotz dem fehlendem Fit in Treff, aber die Gegner haben nicht vor, 1Txx zu spielen, sondern eine andere Farbe wie Karo, Coeur oder Pik (siehe Informationskontra)
+   - Wenn also ein neues Gebot abgegeben wird, dann verliert das Rekontra die Wirkung der Gegenmaßnahme.
+   - Jetzt kommt die zweite Maßnahme der Reizung Rekontra, und zwar die Majorität der Punkte auf unserer Achse, was später zu einem Strafkontra führen kann.
+
+##
+
+   - Minimum 10 HP zeigt das Rekontra, was zu einer Majorität von mindestens 17-23 HP führt.
+   - Entsprechend werden sich alle anderen Reizungen ändern müssen.
+   - 1K/C/P sind nach oben hin nicht mehr unbegrenzt, sondern nur noch bis 10 HP
+   - Dementsprechend sind diese Reizungen auch nicht mehr Forcing, da sie nach oben begrenzt sind.
+   - Aber welchen Nutzen bringt uns das und welche Strategie steckt dahinter?
+
+##
+
+   - Die Strategie ist folgende:
+      - Die Gegner – die ja erheblich schächer in HP sind – zu einem höheren Kontrakt zu zwingen (das nennt man "den Gegner zum Laufen bringen"), in dem wir aufgrund der Majorität der HP (das wissen wir sicher) + vier gute Karten in der Gegnerfarbe (noch unsicher) den Gegner mit einem Strafkontra belegen können.
+   - Das bringt uns erheblich mehr Punkte ein als selbst zu spielen (Gefahrenlage berücksichtigen!!).
+
+##
+
+   - Die andere Frage ist: Warum müssen die Gegner laufen?
+      - Weil wir sonst den rekontrierenden Kontrakt leicht erfüllen, was wiederum sehr viele Punkte einbringt. Wenn aber die zweite Säule fehlt (Haltung in der Gegnerfarbe), ist die Information (mehr als 10 HP) sehr wichtig für den weiteren Verlauf der Reizung.
+   - Das Prinzip ist einfach, aber effektiv:
+      - Die andere Seite zum Laufen zu bringen, um sie in ein Strafkontra zu verwandeln oder, falls die zweite Säule fehlt, eine sehr wichtige Information, um einen höheren Kontrakt als nur einen Teilkontrakt zu reizen.
+
+##
+
+   - Das sind die wichtigsten Bestandteile der Reizung Rekontra. Entsprechend verlieren alle anderen Reizungen – falls sie forcierend waren – ihre Gültigkeit wegen der oberen Grenze 10 HP.
+
+##
+
+    N       O        S        W
+    1K      x        ?
+
+   - Die folgenden Beispiele beziehen sich auf SÜD:
+
+    1.      A D x x x      Rekontra und nicht 1P
+            x
+            K x x x
+            D x x
+
+    2.      A D x x        1K
+            x x
+            B x x x
+            x x x
+
+    3.      x x x          2T, 8-9 HP, weil freiwillige Reizung
+            A x
+            D x x 
+            D x x x x
+
+##
+
+    4.      x x x          Pass, und danach – falls möglich – 2T, 6-7 HP
+            A x
+            D x x x
+            x x x x
+
+    5.      x x x          1SA, 8-9, weil freiwillige Reizung
+            D x x
+            A x x x
+            K x x
+
+    6.      x x x          Pass, und danach - falls – möglich – 1SA, 6-7 HP
+            D x x
+            A x x x
+            B x x
+
+   - Damit ist das Kapitel Rekontra erläutert worden. Natürlich bedarf es der Übung, um dieses Prinzip richtig zu verstehen.
+
 # Wiederbelebungsreiung
+
+## Voraussetzungen für eine Wiederbelebungsreizung
+
+## Neue Farbe auf der 1er Stufe
+
+## Neue Farbe auf der 2er Stufe ohne Sprung
+
+## 1 Sans Atout
+
+## Kontra
+
+## Überruf der Gegnerfarbe
+
+## Neue Farbe mit Sprung
+
+## Antworten auf eine Wiederbelebungsreizung
 
 # Eröffnungen auf der 2er-Stufe
 
