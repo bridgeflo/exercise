@@ -1,7 +1,7 @@
 ---
 author: Carl von Schoenebeck
 title: Basis
-date: Oct 31, 2017
+date: Nov 13, 2017
 ---
 
 # Antworten auf 1-in-Farbe
@@ -1740,7 +1740,7 @@ Bei gepasster Hand macht die Reizung Kontra als Informationskontra nur dann Sinn
 
     Beispiel (wenn man rekontriert und fällt):
     2Pxx -1 = 100 x 2 = 200 (nicht in Gefahr); 200 x 2 = 400 (in Gefahr)
-    2Pxx -2 = 
+    2Pxx -2 = (2n-1) x 2 = 600 (nicht in Gefahr); (3n-1) x 2 = 1000 (in Gefahr)
 
    - Dies war die erste Facette der Reizung Rekontra, auf die zweite muss man etwas tiefer eingehen.
 
@@ -1830,35 +1830,171 @@ Bei gepasster Hand macht die Reizung Kontra als Informationskontra nur dann Sinn
 
 # Wiederbelebungsreiung
 
+## Allgemeines
+
+   - Ausgangsbasi:
+   - Wir befinden uns in der letzten Position, nachdem links der Eröffner mit 1T/K/C/P eröffnet hat, und nacheinander sowohl der Partner als auch der rechts befindliche Gegner gepasst haben.
+
+    Beispiel
+    N       O        S        W
+    1T    Pass     Pass       ?
+
+   - Was nun? Um die Lage zu analysieren, muss man zwei Fragen beantworten:
+      - 1. Warum reizt mein Partner nicht gegen?
+      - 2. Warum passt der Partner des Eröffners?
+
+##
+
+   - Man könnte meinen, wir befinden uns in der Gegen- oder Zwischenreizung und die Bedingungen wären gleich oder zumindest fast gleich.
+   - Aber das wäre eine Fehleinschätzung der Situation, da wir keine direkte Gegenreizung oder zwei Reizungen der Gegner (Zwischenreizung) hinter uns haben.
+
+##
+
+   - Warum passt aber mein Partner?
+   - Weil er nichts zu sagen hatte. Mit anderen Worten, er konnte weder dagegenreizen (1K/C/P) noch ein Informationskontra abgeben. Aber das heißt noch lange nichtm dass er schwach ist, sondern nur, dass er nicht direkt in die Reizung eingreifen könnte.
+
+   - Und warum passt der Partner des Eröffners?
+   - Er ist schwach, unter 5 HP.
+
+##
+
+   - Wenn man auf diese zwei Fragen eine klare Antwort hat, dann kannn man eine Strategie vorbereiten. Diese beruht auf der Tatsache, dass der Partner seine Stärke nicht hat zeigen können, obwohl die Stärke da ist. Jetzt beginnen wir mit dem Aufbau der Wiederbelebungsreizung.
+
+   - Die Wiederbelebungsreizung liegt einer anderen Basis zugrunde als die der "normalen" (Zwischen-)Reizung.
+   - Eine Wiederbelebungsreizung erfolgt erst an vierter Stelle.
+
+##
+
+   - Man weiß nicht, ob der Partner gepasst hat, weil er wirklich nichts hat, oder weil er keine Gelegenheit mehr zum Reizen bekommen hat.
+
+    Merke:  Eine Wiederbelebungsreizung kommt nur dann zum Einsath, wenn nach dem Eröffner zweimal gepasst wurde.
+
+    Beispiel:           Pass
+                  1K          Pass
+                         1P
+                         K x x x
+                         A x x
+                         x x
+                         B x x x
+
+##
+
+   - Erklärung:
+   - Wenn mein Partner gepasst hat, dann hat er entweder nichts, oder er kann weder Kontra geben noch eine seiner Farben reizen, obwohl er genügend HP für eine Zwischenreizung hätte.
+Passe ich jetzt auch, da ich nur 8 HP habe, dann kann mein Partner nichts mehr sagen, wenn auch der Eröffner passt.
+Ich muss also an der vierten Pasition meinen Partner schützen.
+Daher gelten für die Wiederbelebungsreizung andere Grundlagen als für "normale" Reizungen.
+
+    Merke:  Pass in zweiter Position nach dem Eröffner muss man als Stärke sehen. Unter Umständen hat der Partner 4 Karten in der Farbe des Eröffners und mindestens 10 HP.
+
 ## Voraussetzungen für eine Wiederbelebungsreizung
 
 ## Neue Farbe auf der 1er Stufe
 
+   - Voraussetzungen bei ungepasster Hand: 8-11 HP und mindestens 4 Karten in dieser Farbe (unabhängig von der Qualität der Karten).
+   - Voraussetzungen bei gepasster Hand: 7-9 HP und mindestens 4 Karten in dieser Farbe
+
+    Merke:   Die Reizung einer neuen Farbe bedeutet bei der Wiederbelebungsreizung Schwäche und nicht Strärke wie bei der Zwischenreizung.
+
 ## Neue Farbe auf der 2er Stufe ohne Sprung
+
+   - Voraussetzungen bei ungepasster Hand: 8-11 HP und mindestens 5 Karten in dieser Farbe.
+   - Voraussetzungen bei gepasster Hand: 7-9 HP und mindestens 5 Karten in dieser Farbe.
+
+    Merke:  Die Reizung einer neuen Farbe ist Schwäche und nicht Stärke wie bei einer "natürlichen" Reizung.
 
 ## 1 Sans Atout
 
+   - Voraussetzungen bei ungepasster Hand: 8-14 HP, ausgeglichene Hand und Stopper in der Gegnerfarbe.
+   - Voraussetzungen bei gepasster Hand: 8-12 HP, ausgeglichene Hand und Stopper in der Gegnerfarbe.
+
+    Merke:  Die SA-Reizung zeigt Schwäche und nicht Stärke wie bei einer "natürlichen" Reizung.
+
 ## Kontra
+
+   - Voraussetzungen bei ungepasster Hand: ab 12 HP, die Verteilung 4 4 3 in den ungereizten Farben ist hier nicht mehr zwingen, sondern nur mindestens 2 Karten in der Eröffnungsfarbe oder Single-Honneur.
+   - Voraussetzungen bei gepasster Hand: 10-12 HP, die Verteilung 4 4 3 in der ungereizten Farben ist hier nicht mehr zwingend, sondern nur mindestens 2 Karten in der Eröffnungsfarbe oder Single-Honneur.
+
+    Merke:  Habe ich an vierter Stelle tatsächlich 15-17 HP wie eine natürliche SA-Eröffnung, dann reize ich zuerst Kontra und danach 1SA oder 2SA, je nachdem, ob der Partner auf der 1er oder 2er Stufe geantwortet hat. Bei einer SA-Reizung würde mein Partner sonst mit 8-14 HP rechnen!
 
 ## Überruf der Gegnerfarbe
 
+   - Voraussetzungen nur bei ungepasster Hand: 
+      - ab 16 HP und Chicane (Void) in der Gegnerfarbe, Forcing.
+
+    Merke:  Der sogeneannte Überruf behält seine Bedeutung als starke Reizung mit einer besonderen Verteilung (Chicane in der Farbe des Gegners).
+
 ## Neue Farbe mit Sprung
+
+   - Voraussetzungen nur bei ungepasster Hand:
+      - 12-15 HP und mindestens 6 Kartnen in dieser Farbe und Singleton oder Chicane in der Farbe des Eröffners (besondere Eröffnung).
 
 ## Antworten auf eine Wiederbelebungsreizung
 
+   - Nach der Wiederbelebungsreizung ist jede Reizung des Partners eine freiwillige Reizung und zeigt ab 13 HP, einladend.
+
+   - Ausnahme:
+      - Der Überruf zwingt den Partner zum Reizen.
+
+    Beispiel 1:   W        N        O        s
+                  1K     Pass     Pass     1C/P
+                 Pass     1SA      
+
+   - Erklärung:
+      - 13-14 HP + ausgeglichene Verteilung + Stopper in der Farbe des Eröffnenden.
+
+##
+
+    Beispiel 2:   W        N        O        S
+                  1K     Pass     Pass     1C/P  
+                 Pass    2C/P     
+
+   - Erklärung:
+      - 13-14 HP + 4er C/P, einladend zum Game.
+
+    Beispiel 3:   W        N        O        S
+                  1K     Pass     Pass     1C/P
+                 Pass     2K
+
+   - Erklärung:
+      - Überruf der Gegnerfarbe (die einzige forcierende Reizung) ab 13 HP. Frage nach Stopper in der Farbe Karo + Forcing für eine Runde.
+
+    Beispiel 4:   W        N        O        S
+                  1K     Pass     Pass     Kontra
+                 Pass    PASS!
+
+   - Erklärung:
+      - Umwandlung eines Informationskontras in ein Strafkontra.
+   - Bedingungen:
+      - Minimum 9 HP + mindestens 4 gute Karten in Karo (D, 10, x, x).
+
 # Eröffnungen auf der 2er-Stufe
+
+## Defensivstiche
+
+## Offensivstiche
+
+## Antworten auf 2K/C/P
+
+## 2SA-Eröffnung
+
+## Antworten auf 2SA
+
+## 2T-Eröffnung
+
+## Antworten auf 2T
 
 # Eröffnungen auf der 3er und 4er Stufe
 
-## T, K, C, P: Hintergründe
+## 3T/K/C/P: Hintergründe
 
-## C, P-Eröffnungen
+## 4C/P-Eröffnungen
 
-## T, K-Eröffnungen
+## 4T/K-Eröffnungen
 
 # Schlemmreizungen
 
-## Blackwood-Konverntion
+## Blackwood-Konvention
 
 ## Weiterführende Reizungen auf 4 SA
 
